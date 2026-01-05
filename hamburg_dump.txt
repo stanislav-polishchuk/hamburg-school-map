@@ -1,0 +1,380 @@
+Schulname 	Sozialindex alt 	Sozialindex neu
+Adolph-Diesterweg-Schule 	2 	2
+Adolph-Schönfelder-Schule 	3 	4
+ahfs Christliche Stadtteilschule Bergedorf 	nv 	4
+ahfs Christliches Gymnasium Uhlenhorst 	nv 	4
+Albert-Schweitzer-Gymnasium 	6 	5
+Albert-Schweitzer-Schule 	6 	5
+Albrecht-Thaer-Gymnasium 	5 	5
+Alexander-von-Humboldt-Gymnasium 	5 	4
+Anton-Rée-Schule Allermöhe 	3 	2
+Aueschule Finkenwerder 	3 	3
+August-Hermann-Francke-Schule Bahrenfeld 	nv 	4
+August-Hermann-Francke-Schule Bergedorf 	nv 	4
+August-Hermann-Francke-Schule Berne 	nv 	5
+August-Hermann-Francke-Schule Farmsen 	5 	4
+August-Hermann-Francke-Schule Uhlenhorst 	nv 	5
+Brüder-Grimm-Schule 	2 	2
+Bugenhagen-Schule Alsterdorf (Grundschule) 	nv 	5
+Bugenhagen-Schule Alsterdorf (Stadtteilschule) 	nv 	5
+Bugenhagen-Schule Groß Flottbek 	nv 	5
+Bugenhagen-Schule Hamm, Evangelische Grundschule Paulus 	nv 	5
+Bugenhagen-Schule im Hessepark (Grundschule) 	nv 	5
+Bugenhagen-Schule im Hessepark (Stadtteilschule) 	nv 	5
+Bugenhagen-Schule Ottensen 	nv 	5
+Carl-Cohn-Schule 	4 	5
+Carl-Götze-Schule 	5 	5
+Carl-von-Ossietzky-Gymnasium 	5 	5
+Charlotte-Paulsen-Gymnasium 	5 	4
+Christianeum 	6 	6
+Clara-Grunwald-Schule 	2 	1
+Demokratische Schule FLeKS 	nv 	2
+Deutsch-Französisches Gymnasium 	6 	5
+Domschule St. Marien (Grundschule) 	3 	3
+Domschule St. Marien (Stadtteilschule) 	3 	3
+Elbinselschule 	1 	2
+Elbkinder Grundschule 	6 	6
+Emil Krause Schule 	2 	2
+Emilie-Wüstenfeld-Gymnasium 	5 	5
+Erich Kästner Schule 	3 	3
+Franz-von-Assisi-Schule 	3 	3
+Fridtjof-Nansen-Schule 	3 	2
+Friedrich-Ebert-Gymnasium 	5 	3
+Fritz-Köhne-Schule 	1 	1
+Fritz-Schumacher-Schule 	4 	4
+Ganztagsgrundschule Am Johannisland 	2 	2
+Ganztagsgrundschule Sternschanze 	2 	4
+Ganztagsschule an der Elbe 	2 	2
+Ganztagsschule Fährstraße 	1 	1
+Gelehrtenschule des Johanneums 	6 	6
+Georg-Kerschensteiner-Grundschule 	1 	2
+Geschwister-Scholl-Stadtteilschule 	1 	1
+Goethe-Gymnasium 	4 	3
+
+-- 1 of 7 --
+
+Goethe-Schule-Harburg 	4 	3
+Goldbek-Schule 	4 	5
+Gorch-Fock-Schule 	6 	6
+Gretel-Bergmann-Schule 	2 	2
+Grund- und Stadtteilschule Alter Teichweg 	2 	2
+Grund- und Stadtteilschule Altrahlstedt 	3 	3
+Grundschule Am Heidberg 	5 	4
+Grundschule am Kiefernberg 	3 	3
+Grundschule An der Haake 	2 	2
+Grundschule Archenholzstraße 	2 	1
+Grundschule Arnkielstraße 	2 	4
+Grundschule Ballerstaedtweg 	3 	4
+Grundschule Bindfeldweg 	5 	5
+Grundschule Bramfeld 	3 	2
+Grundschule Eckerkoppel 	4 	4
+Grundschule Edwin-Scharff-Ring 	2 	1
+Grundschule Franzosenkoppel 	3 	2
+Grundschule Goosacker 	4 	3
+Grundschule Groß Flottbek 	5 	5
+Grundschule Großlohering 	2 	1
+Grundschule Hasenweg 	5 	6
+Grundschule Heidhorst 	4 	4
+Grundschule Hoheluft 	5 	6
+Grundschule Horn 	2 	2
+Grundschule Islandstraße 	4 	5
+Grundschule Karlshöhe mit Zweigstelle 	5 	5
+Grundschule Kirchdorf 	1 	2
+Grundschule Lohkampstraße 	2 	3
+Grundschule Luruper Hauptstraße 	3 	2
+Grundschule Marienthal 	4 	3
+Grundschule Mendelstraße 	2 	2
+Grundschule Mümmelmannsberg 	1 	1
+Grundschule Neugraben - Offene Ganztagsgrundschule (GBS) 	2 	3
+Grundschule Neurahlstedt 	4 	3
+Grundschule Nydamer Weg 	4 	5
+Grundschule Osterbrook 	1 	1
+Grundschule Poppenbüttel 	5 	5
+Grundschule Rahewinkel 	1 	1
+Grundschule Sachsenweg 	5 	5
+Grundschule Sinstorfer Weg 	3 	4
+Grundschule St. Nikolai 	6 	6
+Grundschule St.Pauli 	2 	2
+Grundschule Thadenstraße 	3 	4
+Grundschule Tonndorf 	4 	3
+Gymnasium Allee 	4 	4
+Gymnasium Allermöhe 	4 	3
+Gymnasium Alstertal 	5 	5
+Gymnasium Altona 	5 	5
+Gymnasium Blankenese 	6 	6
+Gymnasium Bondenwald 	6 	5
+Gymnasium Bornbrook 	4 	4
+Gymnasium Buckhorn 	6 	6
+
+-- 2 of 7 --
+
+Gymnasium Corveystraße 	5 	6
+Gymnasium Dörpsweg 	5 	4
+Gymnasium Eppendorf 	6 	6
+Gymnasium Farmsen 	4 	4
+Gymnasium Finkenwerder 	5 	4
+Gymnasium Grootmoor 	6 	6
+Gymnasium Heidberg 	5 	5
+Gymnasium Hochrad 	6 	6
+Gymnasium Hoheluft 	5 	5
+Gymnasium Hummelsbüttel 	4 	5
+Gymnasium Kaiser-Friedrich-Ufer 	5 	5
+Gymnasium Klosterschule 	5 	4
+Gymnasium Lerchenfeld 	4 	5
+Gymnasium Lohbrügge 	5 	4
+Gymnasium Marienthal 	3 	2
+Gymnasium Meiendorf 	5 	5
+Gymnasium Oberalster 	5 	6
+Gymnasium Ohlstedt 	6 	6
+Gymnasium Ohmoor 	6 	5
+Gymnasium Oldenfelde 	5 	4
+Gymnasium Osterbek 	5 	4
+Gymnasium Othmarschen 	6 	6
+Gymnasium Rahlstedt 	5 	4
+Gymnasium Rissen 	6 	5
+Gymnasium Süderelbe 	5 	4
+Gyula Trebitsch Schule Tonndorf 	4 	3
+Hansa-Gymnasium Bergedorf 	5 	5
+Heilwig-Gymnasium 	5 	6
+Heinrich-Heine-Gymnasium 	6 	6
+Heinrich-Hertz-Schule 	4 	5
+Heinrich-Wolgast-Schule 	3 	3
+Heisenberg-Gymnasium 	5 	4
+Helene-Lange-Gymnasium 	5 	6
+Helmut-Schmidt-Gymnasium 	2 	2
+Ida Ehre Schule 	3 	4
+Ilse-Löwenstein-Schule 	4 	4
+Immanuel-Kant-Gymnasium 	5 	5
+Irena-Sendler-Schule 	4 	5
+Johannes-Brahms-Gymnasium 	4 	3
+Julius-Leber-Schule 	4 	4
+Katharina-von-Siena-Schule 	5 	5
+Katharinenschule in der Hafencity 	4 	3
+Katholische Bonifatiusschule 	3 	2
+Katholische Schule Altona 	2 	2
+Katholische Schule Am Weiher - St. Bonifatius 	5 	5
+Katholische Schule Bergedorf 	4 	4
+Katholische Schule Blankenese 	6 	5
+Katholische Schule Farmsen 	5 	4
+Katholische Schule Hammer Kirche 	4 	3
+Katholische Schule Harburg 	3 	3
+Katholische Schule Hochallee 	6 	6
+Katholische Schule Neugraben 	3 	3
+
+-- 3 of 7 --
+
+Katholische Schule St. Antonius 	6 	6
+Katholische Schule St. Joseph - Wandsbek 	4 	4
+Katholische Schule St. Marien - Eulenstraße 	5 	5
+Katholische Schule St. Paulus 	3 	2
+Katholische Sophienschule 	5 	4
+Kurt-Körber-Gymnasium 	2 	2
+Lessing-Stadtteilschule 	3 	3
+Lise-Meitner-Gymnasium 	4 	4
+Loki-Schmidt-Schule 	4 	5
+Louise Schroeder Schule 	3 	4
+Louise Weiss Gymnasium 	2 	2
+Luisen-Gymnasium Bergedorf 	6 	5
+Margaretha-Rothe-Gymnasium 	4 	4
+Marie-Beschütz-Schule 	5 	6
+Marion Dönhoff Gymnasium 	6 	6
+Matthias-Claudius-Gymnasium 	4 	4
+Max-Brauer-Schule 	5 	5
+Max-Schmeling-Stadtteilschule 	2 	2
+Max-Traeger-Schule 	2 	2
+monaddrei-Schule Hamburg 	nv 	5
+Nelson-Mandela-Schule im Stadtteil Kirchdorf 	1 	2
+Niels-Stensen-Gymnasium 	4 	4
+Otto-Hahn-Schule 	2 	2
+Rudolf-Roß-Grundschule 	3 	4
+Rudolf-Steiner-Schule Altona 	nv 	5
+Rudolf-Steiner-Schule Bergedorf 	nv 	5
+Rudolf-Steiner-Schule Bergstedt 	nv 	5
+Rudolf-Steiner-Schule Harburg 	nv 	5
+Rudolf-Steiner-Schule Nienstedten 	nv 	6
+Rudolf-Steiner-Schule Wandsbek 	nv 	5
+Sankt-Ansgar-Schule 	5 	3
+Schule Ahrensburger Weg 	6 	6
+Schule Alsterdorfer Straße 	5 	6
+Schule Alsterredder 	6 	6
+Schule Altengamme-Deich 	5 	5
+Schule am Eichtalpark 	3 	2
+Schule am Schleemer Park 	1 	1
+Schule am See 	2 	1
+Schule Am Sooren 	4 	2
+Schule Am Walde 	6 	6
+Schule An den Teichwiesen 	6 	6
+Schule an der Burgweide 	1 	1
+Schule An der Gartenstadt 	4 	4
+Schule An der Glinder Au 	1 	1
+Schule An der Isebek 	6 	6
+Schule An der Seebek 	3 	3
+Schule Anna-Susanna-Stieg 	4 	4
+Schule Appelhoff 	2 	1
+Schule Arp-Schnitger-Stieg 	3 	3
+Schule auf der Uhlenhorst 	5 	5
+Schule auf der Veddel 	1 	1
+Schule Bahrenfelder Straße 	4 	5
+
+-- 4 of 7 --
+
+Schule Bandwirkerstraße 	3 	2
+Schule Barlsheide 	1 	1
+Schule Beim Pachthof 	1 	1
+Schule Bekassinenau 	5 	4
+Schule Bergstedt 	6 	5
+Schule Bonhoefferstraße 	3 	2
+Schule Bovestraße 	5 	5
+Schule Brehmweg 	2 	4
+Schule Brockdorffstraße 	5 	4
+Schule Buckhorn 	6 	5
+Schule Burgunderweg 	5 	5
+Schule Charlottenburger Straße 	1 	1
+Schule Cranz 	3 	2
+Schule Curslack-Neuengamme 	5 	5
+Schule Dempwolffstraße 	2 	2
+Schule Döhrnstraße 	5 	5
+Schule Duvenstedter Markt 	5 	5
+Schule Eberhofweg 	3 	3
+Schule Eduardstraße 	2 	4
+Schule Eenstock 	3 	3
+Schule Ernst-Henning-Straße 	4 	3
+Schule Eulenkrugstraße 	6 	5
+Schule Fahrenkrön 	5 	5
+Schule Forsmannstraße 	5 	5
+Schule Friedrich-Frank-Bogen 	2 	1
+Schule Frohmestraße 	4 	5
+Schule Fuchsbergredder 	3 	2
+Schule Fünfhausen-Warwisch 	5 	5
+Schule Furtweg 	3 	3
+Schule Genslerstraße 	3 	4
+Schule Grumbrechtstraße 	2 	2
+Schule Grützmühlenweg 	4 	5
+Schule Hasselbrook 	2 	4
+Schule Heidacker 	4 	4
+Schule Hinsbleek 	5 	5
+Schule Hinter der Lieth 	5 	5
+Schule Hohe Landwehr 	2 	2
+Schule Humboldtstraße 	5 	5
+Schule In der Alten Forst 	5 	5
+Schule Iserbarg 	5 	5
+Schule Iserbrook 	5 	5
+Schule Jenfelder Straße 	1 	1
+Schule Kamminer Straße 	3 	3
+Schule Kapellenweg 	2 	2
+Schule Kielortallee 	5 	6
+Schule Klein Flottbeker Weg 	6 	6
+Schule Knauerstraße 	6 	6
+Schule Krohnstieg 	4 	3
+Schule Kroonhorst 	1 	1
+Schule Lämmersieth 	1 	2
+Schule Langbargheide 	1 	1
+Schule Lehmkuhlenweg 	6 	5
+
+-- 5 of 7 --
+
+Schule Lemsahl-Mellingstedt 	6 	6
+Schule Leuschnerstraße 	3 	3
+Schule Lutterothstraße 	4 	5
+Schule Maretstraße 	1 	1
+Schule Marmstorf 	5 	4
+Schule Marschweg 	6 	5
+Schule Max-Eichholz-Ring 	4 	3
+Schule Mendelssohnstraße 	2 	3
+Schule Mittlerer Landweg 	5 	3
+Schule Molkenbuhrstraße 	3 	4
+Schule Moorflagen 	4 	5
+Schule Müssenredder 	5 	4
+Schule Nettelnburg 	4 	4
+Schule Neubergerweg 	3 	3
+Schule Neuland 	5 	4
+Schule Ochsenwerder 	5 	5
+Schule Ohkamp 	5 	4
+Schule Ohrnsweg 	2 	2
+Schule Öjendorfer Damm 	1 	1
+Schule Oppelner Straße 	1 	1
+Schule Potsdamer Straße 	1 	1
+Schule Rahlstedter Höhe 	3 	4
+Schule Ratsmühlendamm 	4 	4
+Schule Redder 	6 	6
+Schule Rellinger Straße 	5 	5
+Schule Richardstraße 	5 	5
+Schule Rönneburg 	4 	3
+Schule Rönnkamp 	5 	4
+Schule Rotenhäuser Damm 	1 	1
+Schule Rothestraße 	5 	5
+Schule Röthmoorweg 	2 	3
+Schule Rungwisch 	3 	3
+Schule Sander Straße 	3 	3
+Schule Scheeßeler Kehre 	4 	4
+Schule Schenefelder Landstraße 	4 	5
+Schule Schnuckendrift 	5 	4
+Schule Schulkamp 	6 	6
+Schule Sethweg 	5 	5
+Schule Speckenreye 	2 	2
+Schule Stengelestraße 	1 	1
+Schule Sterntalerstraße 	1 	1
+Schule Stockflethweg 	4 	4
+Schule Strenge 	6 	6
+Schule Surenland 	3 	3
+Schule Tornquiststraße 	5 	5
+Schule Traberweg 	4 	4
+Schule Trenknerweg 	5 	6
+Schule Turmweg 	6 	6
+Schule Vizelinstraße 	1 	4
+Schule Wegenkamp 	3 	5
+Schule Wesperloh 	4 	4
+Schule Wielandstraße 	4 	4
+
+-- 6 of 7 --
+
+Schule Wildschwanbrook 	3 	3
+Schule Windmühlenweg 	6 	6
+Schule Zollenspieker 	5 	5
+Sophie-Barat-Schule 	6 	5
+Stadtteilschule Altona 	2 	3
+Stadtteilschule Am Hafen 	1 	2
+Stadtteilschule Am Heidberg 	4 	4
+Stadtteilschule Bahrenfeld 	3 	3
+Stadtteilschule Bergedorf 	4 	3
+Stadtteilschule Bergstedt 	5 	5
+Stadtteilschule Blankenese 	5 	5
+Stadtteilschule Bramfeld 	3 	2
+Stadtteilschule Ehestorfer Weg 	2 	2
+Stadtteilschule Eidelstedt 	2 	2
+Stadtteilschule Eppendorf 	4 	5
+Stadtteilschule Finkenwerder 	3 	3
+Stadtteilschule Fischbek-Falkenberg 	4 	3
+Stadtteilschule Flottbek 	3 	2
+Stadtteilschule Hamburg-Mitte 	2 	2
+Stadtteilschule Helmuth Hübener 	2 	2
+Stadtteilschule Horn 	2 	2
+Stadtteilschule Kirchwerder 	4 	5
+Stadtteilschule Lohbrügge 	3 	2
+Stadtteilschule Lurup 	2 	2
+Stadtteilschule Meiendorf 	4 	3
+Stadtteilschule Mümmelmannsberg 	1 	1
+Stadtteilschule Niendorf 	5 	5
+Stadtteilschule Öjendorf 	1 	1
+Stadtteilschule Oldenfelde 	3 	4
+Stadtteilschule Poppenbüttel 	5 	4
+Stadtteilschule Richard-Linde-Weg 	2 	3
+Stadtteilschule Rissen 	4 	5
+Stadtteilschule Stellingen 	3 	4
+Stadtteilschule Stübenhofer Weg 	2 	1
+Stadtteilschule Süderelbe 	2 	2
+Stadtteilschule Walddörfer 	5 	5
+Stadtteilschule Wilhelmsburg 	1 	1
+Stadtteilschule Winterhude 	5 	5
+Struensee Gymnasium 	4 	4
+Theodor-Haubach-Schule 	3 	5
+Walddörfer-Gymnasium 	6 	6
+Westerschule Finkenwerder 	3 	4
+Wilhelm-Gymnasium 	6 	6
+Wolfgang-Borchert-Schule 	4 	5
+Erläuterungen: SI = Sozialindex, nv = nicht vorhanden
+Bei Schulen ohne Sozialindex in 2013 handelt es sich um neu gegründete Schulen oder um
+Schulen in freier Trägerschaft, für die die Berechnung grundsätzlich optional ist.
+
+-- 7 of 7 --
+

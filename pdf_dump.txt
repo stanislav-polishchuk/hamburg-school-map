@@ -1,0 +1,1071 @@
+Kreis / Kreisfreie Stadt	Ort Dienststellen
+Nr. Schulform Schulname Sozialindex
+stufe
+Dithmarschen Bargenstedt 0702162 Grundschule Grundschule Bargenstedt-Schafstedt, Grundschule des Schulverbandes
+Meldorf und des Schulverbandes Albersdorf in Meldorf 1
+Dithmarschen Eddelak 0702174 Grundschule Grundschule am Klev Eddelak-Buchholz des Amtes Burg-St.
+Michaelisdonn in Eddelak 1
+Dithmarschen Heide 0702183 Grundschule Schulen am Moor, Heide 1
+Dithmarschen Kronprinzenkoog 0702190 Grundschule Marschenschool, Grundschule des Amtes Marne - Nordsee in
+Kronprinzenkoog 1
+Dithmarschen Nordhastedt 0702201 Grundschule Grundschule Nordhastedt 1
+Dithmarschen Dellstedt 0702218 Grundschule Eiderschule 1
+Dithmarschen Albersdorf 0702160 Grundschule Wulf-Isebrand-Schule, Grundschule Albersdorf-Bunsoh, Schulverband
+Albersdorf 2
+Dithmarschen Burg (Dithmarschen) 0702169 Grundschule Geestdörfer Grundschule, Grundschule des Amtes Burg - St.
+Michaelisdonn in Burg mit Außenstelle in Süderhastedt 2
+Dithmarschen Elpersbüttel 0702175 Grundschule Grundschule Elpersbüttel-Barlt, Grundschule des Schulverbandes Meldorf
+in Elpersbüttel 2
+Dithmarschen Hemmingstedt 0702186 Grundschule Grundschulen des Schulträgerverbandes Heider Umland in Hemmingstedt 2
+Dithmarschen Hennstedt
+(Dithmarschen) 0702202 Grundschule Grundschule Hennstedt des Amtes KLG Eider in Hennstedt 2
+Dithmarschen Weddingstedt 0702210 Grundschule Grundschule des Schulträgerverbandes Heider Umland in Weddingstedt 2
+Dithmarschen Wesseln 0702213 Grundschule Grundschule des Grundschulträgerverbandes Heider Umland in Wesseln 2
+Dithmarschen Lunden 0702219 Grundschule Grundschule Lunden 3
+Dithmarschen Brunsbüttel 0702163 Grundschule Grundschule Brunsbüttel-West 4
+Dithmarschen Brunsbüttel 0702164 Grundschule Boy-Lornsen-Grundschule Brunsbüttel 5
+Dithmarschen Meldorf 0702196 Grundschule Grundschule Meldorf 5
+Dithmarschen Wesselburen 0702212 Grundschule Watt'n Meer School, Grundschule des Schulverbandes Wesselburen in
+Wesselburen 7
+Dithmarschen Heide 0702179 Grundschule Grundschule Lüttenheid in Heide 8
+Dithmarschen Heide 0702182 Grundschule St.-Georg-Schule, Grundschule der Stadt Heide in Heide 9
+Dithmarschen Büsum 0705200 Gymnasium Schule am Meer Büsum (Gymnasium mit Grund- und
+Gemeinschaftsschulteil) 4
+Dithmarschen Heide 0705201 Gymnasium Werner-Heisenberg-Gymnasium, Heide 2
+Dithmarschen Marne 0705202 Gymnasium Gymnasium Marne 1
+Dithmarschen Meldorf 0705203 Gymnasium Meldorfer Gelehrtenschule 1
+Dithmarschen Heide 0705204 Gymnasium Gymnasium Heide-Ost 2
+Dithmarschen Brunsbüttel 0705205 Gymnasium Gymnasium Brunsbüttel 2
+Dithmarschen Burg (Dithmarschen) 0707200 Gemeinschaftsschule Gemeinschaftsschule am Hamberg, Gemeinschaftsschule des Amtes
+Burg-St. Michaelisdonn in Burg 1
+Dithmarschen Heide 0707201 Gemeinschaftsschule Gemeinschaftsschule Heide-Ost, Gemeinschaftsschule der Stadt Heide in
+Heide 6
+Dithmarschen Meldorf 0707202 Gemeinschaftsschule Gemeinschaftsschule des Schulverbandes Meldorf in Meldorf 3
+Dithmarschen Tellingstedt 0707203 Gemeinschaftsschule Grund- und Gemeinschaftsschule des Amtes Kirchspiellandgemeinden
+Eider in Tellingstedt 2
+Dithmarschen Albersdorf 0707205 Gemeinschaftsschule Gemeinschaftsschule am Brutkamp, Gemeinschaftsschule des
+Schulverbandes Albersdorf 3
+Dithmarschen Heide 0707206 Gemeinschaftsschule Klaus-Groth-Schule, Grund- und Gemeinschaftsschule der Stadt Heide in
+Heide 8
+Dithmarschen Marne 0707207 Gemeinschaftsschule Reimer-Bull-Schule, Grund-und Gemeinschaftsschule des Amtes Marne-
+Nordsee in Marne 3
+Dithmarschen Brunsbüttel 0707208 Gemeinschaftsschule Schleusen-Gemeinschaftsschule, Gemeinschaftsschule der Stadt
+Brunsbüttel in Brunsbüttel 6
+Dithmarschen Sankt Michaelisdonn 0707209 Gemeinschaftsschule Grund- und Gemeinschaftsschule des Amtes Burg-St. Michaelisdonn in
+St. Michaelisdonn 1
+Dithmarschen Wesselburen 0707210 Gemeinschaftsschule Eider-Nordsee-Schule 4
+Flensburg Flensburg 0702235 Grundschule Grundschule Adelby 2
+Flensburg Flensburg 0702021 Grundschule Falkenbergschule 4
+Flensburg Flensburg 0702022 Grundschule Hohlwegschule 4
+Flensburg Flensburg 0702030 Grundschule Grundschule Friedheim 5
+Flensburg Flensburg 0702031 Grundschule Grundschule Fruerlund 5
+Flensburg Flensburg 0702029 Grundschule Grundschule Flensburg-Weiche UNESCO-Schule 6
+
+-- 1 of 16 --
+
+Flensburg Flensburg 0702024 Grundschule Waldschule 8
+Flensburg Flensburg 0702028 Grundschule Grundschule Engelsby 8
+Flensburg Flensburg 0702020 Grundschule Schule Auf der Rude 9
+Flensburg Flensburg 0702023 Grundschule Grundschule Ramsharde, Flensburg 9
+Flensburg Flensburg 0705000 Gymnasium Altes Gymnasium 5
+Flensburg Flensburg 0705001 Gymnasium Auguste-Viktoria-Schule 1
+Flensburg Flensburg 0705002 Gymnasium Fördegymnasium 2
+Flensburg Flensburg 0705003 Gymnasium Goethe-Schule 2
+Flensburg Flensburg 0707002 Gemeinschaftsschule Comenius-Schule, Gemeinschaftsschule der Stadt Flensburg in Flensburg 9
+Flensburg Flensburg 0707003 Gemeinschaftsschule Gemeinschaftsschule Flensburg-West, Gemeinschaftsschule der Stadt
+Flensburg in Flensburg 9
+Flensburg Flensburg 0707004 Gemeinschaftsschule Kurt-Tucholsky-Schule, Gemeinschaftsschule mit Oberstufe der Stadt
+Flensburg 4
+Flensburg Flensburg 0707005 Gemeinschaftsschule Fridtjof-Nansen-Schule, Gemeinschaftsschule mit Oberstufe der Stadt
+Flensburg in Flensburg 5
+Flensburg Flensburg 0707006 Gemeinschaftsschule Käte-Lassen-Schule, Gemeinschaftsschule der Stadt Flensburg in
+Flensburg 5
+Hzgt.
+Lauenburg Breitenfelde 0702278 Grundschule Grundschule des Amtes Breitenfelde in Breitenfelde 1
+Hzgt.
+Lauenburg Dassendorf 0702281 Grundschule Alfried-Otto-Schule, Grundschule Dassendorf 1
+Hzgt.
+Lauenburg Lütau 0702297 Grundschule Grundschule Lütau, Grundschule des Amtes Lütau in Lütau 1
+Hzgt.
+Lauenburg Müssen 0702300 Grundschule Grundschule Müssen 1
+Hzgt.
+Lauenburg Nusse 0702301 Grundschule Grundschule des Amtes Sandesneben-Nusse in Nusse 1
+Hzgt.
+Lauenburg Sterley 0702309 Grundschule Grundschule Sterley 1
+Hzgt.
+Lauenburg Börnsen 0702277 Grundschule Dalbek-Schule Börnsen 2
+Hzgt.
+Lauenburg Escheburg 0702282 Grundschule Grüppental-Schule 2
+Hzgt.
+Lauenburg Geesthacht 0702286 Grundschule Waldschule 2
+Hzgt.
+Lauenburg Groß Grönau 0702288 Grundschule Waldschule Groß Grönau 2
+Hzgt.
+Lauenburg Kuddewörde 0702304 Grundschule Grundschule Kuddewörde 2
+Hzgt.
+Lauenburg Wohltorf 0702312 Grundschule Grundschule Wohltorf 2
+Hzgt.
+Lauenburg Wentorf bei Hamburg 0702314 Grundschule Grundschule Wentorf 2
+Hzgt.
+Lauenburg Aumühle 0702315 Grundschule Fürstin-Ann-Mari-von-Bismarck-Schule 2
+Hzgt.
+Lauenburg Büchen 0702280 Grundschule Schule am Steinautal - Grundschule mit Förderzentrumsteil Lernen 3
+Hzgt.
+Lauenburg Schwarzenbek 0702317 Grundschule Grundschule des Schulverbandes Schwarzenbek-Nordost 3
+Hzgt.
+Lauenburg Ratzeburg 0702302 Grundschule Grundschule des Schulverbandes Ratzeburg in Ratzeburg 4
+Hzgt.
+Lauenburg Lauenburg/Elbe 0702294 Grundschule Weingartenschule, Grundschule mit Förderzentrum Lernen 5
+Hzgt.
+Lauenburg Geesthacht 0702316 Grundschule Grundschule in der Oberstadt 5
+Hzgt.
+Lauenburg Mölln 0702298 Grundschule Till-Eulenspiegel-Schule 6
+Hzgt.
+Lauenburg Mölln 0702313 Grundschule Grundschule Tanneck 6
+Hzgt.
+Lauenburg Geesthacht 0702285 Grundschule Grundschule Silberberg 7
+Hzgt.
+Lauenburg Geesthacht 0702284 Grundschule Buntenskampschule, Grundschule der Stadt Geesthacht in Geesthacht 8
+Hzgt.
+Lauenburg Geesthacht 0705300 Gymnasium Otto-Hahn-Gymnasium - Europaschule 6
+Hzgt.
+Lauenburg Ratzeburg 0705301 Gymnasium Lauenburgische Gelehrtenschule Ratzeburg 2
+Hzgt.
+Lauenburg Schwarzenbek 0705302 Gymnasium Gymnasium Schwarzenbek - Europaschule 2
+Hzgt.
+Lauenburg Wentorf bei Hamburg 0705303 Gymnasium Gymnasium Wentorf 1
+Hzgt.
+Lauenburg Mölln 0705304 Gymnasium Marion-Dönhoff-Gymnasium Mölln 2
+Hzgt.
+Lauenburg Berkenthin 0707251 Gemeinschaftsschule Stecknitz-Schule - Grund- und Gemeinschaftsschule des Schulverbandes
+an der Stecknitz Berkenthin-Krummesse 2
+Hzgt.
+Lauenburg Büchen 0707252 Gemeinschaftsschule Friedegart-Belusa-Gemeinschaftsschule mit Oberstufe des
+Schulverbandes Büchen in Büchen 3
+
+-- 2 of 16 --
+
+Hzgt.
+Lauenburg Lauenburg/Elbe 0707253 Gemeinschaftsschule Albinus-Gemeinschaftsschule Lauenburg, Gemeinschaftsschule mit
+Oberstufe der Stadt Lauenburg/Elbe in Lauenburg 4
+Hzgt.
+Lauenburg Sandesneben 0707254 Gemeinschaftsschule Grund- und Gemeinschaftsschule Sandesneben mit Oberstufe des Amtes
+Sandesneben-Nusse 3
+Hzgt.
+Lauenburg Mölln 0707255 Gemeinschaftsschule Gemeinschaftsschule der Stadt Mölln in Mölln 6
+Hzgt.
+Lauenburg Schwarzenbek 0707256 Gemeinschaftsschule Grund- und Gemeinschaftsschule der Stadt Schwarzenbek in
+Schwarzenbek 7
+Hzgt.
+Lauenburg Ratzeburg 0707257 Gemeinschaftsschule Gemeinschaftsschule Lauenburgische Seen, Gemeinschaftsschule der
+Schulverbandes Ratzeburg in Ratzeburg 5
+Hzgt.
+Lauenburg Geesthacht 0707258 Gemeinschaftsschule Bertha-von-Suttner-Schule, Gemeinschaftsschule mit Oberstufe
+Geesthacht der Stadt Geesthacht 7
+Hzgt.
+Lauenburg Geesthacht 0707259 Gemeinschaftsschule Alfred-Nobel-Schule, Gemeinschaftsschule mit Oberstufe der Stadt
+Geesthacht 3
+Hzgt.
+Lauenburg Wentorf bei Hamburg 0707260 Gemeinschaftsschule Gemeinschaftsschule der Gemeinde Wentorf in Wentorf bei Hamburg, Die
+Schule im Grünen 5
+Kiel Kiel 0702053 Grundschule Uwe-Jens-Lornsen-Schule 1
+Kiel Kiel 0702041 Grundschule Friedrich-Junge-Grundschule 2
+Kiel Kiel 0702045 Grundschule Grundschule Kronsburg 2
+Kiel Kiel 0702072 Grundschule Reventlouschule 2
+Kiel Kiel 0702074 Grundschule Grundschule Suchsdorf 2
+Kiel Kiel 0702079 Grundschule Johanna-Mestorf-Schule 2
+Kiel Kiel 0702043 Grundschule Goetheschule 3
+Kiel Kiel 0702044 Grundschule Hardenbergschule 3
+Kiel Kiel 0702050 Grundschule Grundschule Russee 3
+Kiel Kiel 0702051 Grundschule Grundschule Schilksee 3
+Kiel Kiel 0702073 Grundschule Schule am Sonderburger Platz 3
+Kiel Kiel 0702080 Grundschule Matthias-Claudius-Schule Kiel 4
+Kiel Kiel 0702040 Grundschule Adolf-Reichwein-Schule 5
+Kiel Kiel 0702049 Grundschule Muhliusschule, Grundschule der Landeshauptstadt Kiel in Kiel 5
+Kiel Kiel 0702064 Grundschule Gorch-Fock-Schule, offene Ganztagsschule 5
+Kiel Kiel 0702054 Grundschule Grundschule Wellsee 6
+Kiel Kiel 0702068 Grundschule Grundschule Holtenau, Grundschule der Landeshauptstadt Kiel in Kiel 6
+Kiel Kiel 0702061 Grundschule Fritz-Reuter-Schule 7
+Kiel Kiel 0702075 Grundschule Theodor-Heuss-Schule 7
+Kiel Kiel 0702063 Grundschule Gerhart-Hauptmann-Schule -Grundschule- 8
+Kiel Kiel 0702047 Grundschule Schule am Göteborgring - Grundschule 9
+Kiel Kiel 0702048 Grundschule Schule am Heidenberger Teich 9
+Kiel Kiel 0702062 Grundschule Grundschule Fröbelschule 9
+Kiel Kiel 0702065 Grundschule Hans-Christian-Andersen-Stadtteilschule, Grundschule der
+Landeshauptstadt Kiel 9
+Kiel Kiel 0702078 Grundschule Toni-Jensen-Grundschule 9
+Kiel Kiel 0705050 Gymnasium Ernst-Barlach-Gymnasium 1
+Kiel Kiel 0705051 Gymnasium Hebbelschule, Gymnasium der Stadt Kiel - Europaschule 1
+Kiel Kiel 0705052 Gymnasium Humboldt-Schule 3
+Kiel Kiel 0705053 Gymnasium Käthe-Kollwitz-Schule 2
+Kiel Kiel 0705054 Gymnasium Kieler Gelehrtenschule 1
+Kiel Kiel 0705055 Gymnasium Max-Planck-Schule 1
+Kiel Kiel 0705056 Gymnasium Ricarda-Huch-Schule 3
+Kiel Kiel 0705057 Gymnasium Hans-Geiger-Gymnasium 6
+Kiel Kiel 0705058 Gymnasium Gymnasium Wellingdorf 6
+Kiel Kiel 0705060 Gymnasium Thor-Heyerdahl-Gymnasium 7
+
+-- 3 of 16 --
+
+Kiel Kiel 0705063 Gymnasium Gymnasium Elmschenhagen 1
+Kiel Kiel 0707053 Gemeinschaftsschule Gemeinschaftsschule der Landeshauptstadt Kiel in Kiel,
+Gemeinschaftsschule am Brook der Landeshauptstadt Kiel 9
+Kiel Kiel 0707054 Gemeinschaftsschule Grund- und Gemeinschaftsschule der Landeshauptstadt Kiel in Kiel,
+Theodor-Storm-Gemeinschaftsschule 9
+Kiel Kiel 0707056 Gemeinschaftsschule Leif-Eriksson-Gemeinschaftsschule der Landeshauptstadt Kiel in Kiel 9
+Kiel Kiel 0707057 Gemeinschaftsschule Lilli-Martius-Schule, Grund- und Gemeinschaftsschule der
+Landeshauptstadt Kiel in Kiel 6
+Kiel Kiel 0707059 Gemeinschaftsschule Friedrich-Junge-Gemeinschaftsschule Schreventeich 4
+Kiel Kiel 0707060 Gemeinschaftsschule Goethe-Gemeinschaftsschule, Gemeinschaftsschule der
+Landeshauptstadt Kiel in Kiel 6
+Kiel Kiel 0707061 Gemeinschaftsschule Gemeinschaftsschule Friedrichsort, Gemeinschaftsschule mit Oberstufe
+der Landeshauptstadt Kiel in Kiel 3
+Kiel Kiel 0707062 Gemeinschaftsschule Gemeinschaftsschule Hassee, Gemeinschaftsschule mit Oberstufe der
+Landeshauptstadt Kiel in Kiel 3
+Kiel Kiel 0707063 Gemeinschaftsschule Toni-Jensen-Gemeinschaftsschule, Gemeinschaftsschule mit Oberstufe
+der Landeshauptstadt Kiel in Kiel 6
+Kiel Kiel 0707064 Gemeinschaftsschule Grund- und Gemeinschaftsschule der Stadt Kiel in Kiel, Klaus-Groth-
+Schule mit Grundschule 9
+Kiel Kiel 0707065 Gemeinschaftsschule Grund- und Gemeinschaftsschule der Stadt Kiel in Kiel, Hermann-Löns-
+Schule 3
+Kiel Kiel 0707066 Gemeinschaftsschule Max-Tau-Grund- und Gemeinschaftsschule der Stadt Kiel 9
+Kiel Kiel 0707067 Gemeinschaftsschule Grund- und Gemeinschaftsschule Wik 6
+Lübeck Lübeck, Hansestadt 0702096 Grundschule Grundschule Groß Steinrade 1
+Lübeck Lübeck, Hansestadt 0702102 Grundschule Grundschule Niendorf, Grundschule der Hansestadt Lübeck 1
+Lübeck Lübeck, Hansestadt 0702103 Grundschule Grundschule Schönböcken 1
+Lübeck Lübeck, Hansestadt 0702090 Grundschule Schule am Stadtpark 2
+Lübeck Lübeck, Hansestadt 0702119 Grundschule Schule Lauerholz 2
+Lübeck Lübeck, Hansestadt 0702126 Grundschule Rangenberg-Schule 2
+Lübeck Lübeck, Hansestadt 0702097 Grundschule Kaland-Schule, Lübeck, Offene Ganztagsschule 3
+Lübeck Lübeck, Hansestadt 0702115 Grundschule Schule Grönauer Baum 3
+Lübeck Lübeck, Hansestadt 0702135 Grundschule Paul-Klee-Schule 3
+Lübeck Lübeck, Hansestadt 0702094 Grundschule Dom-Schule 4
+Lübeck Lübeck, Hansestadt 0702112 Grundschule Grundschule Eichholz 4
+Lübeck Lübeck, Hansestadt 0702116 Grundschule Kahlhorst-Schule 4
+Lübeck Lübeck, Hansestadt 0702121 Grundschule Schule Marli 4
+Lübeck Lübeck, Hansestadt 0702105 Grundschule Grundschule Utkiek 5
+Lübeck Lübeck, Hansestadt 0702129 Grundschule Stadtschule Travemünde, Grundschule der Hansestadt Lübeck in Lübeck 5
+Lübeck Lübeck, Hansestadt 0702092 Grundschule Bugenhagen-Schule 6
+Lübeck Lübeck, Hansestadt 0702125 Grundschule Pestalozzi-Schule 6
+Lübeck Lübeck, Hansestadt 0702132 Grundschule Paul-Gerhardt-Schule 6
+Lübeck Lübeck, Hansestadt 0702099 Grundschule Marien-Schule 7
+Lübeck Lübeck, Hansestadt 0702100 Grundschule Mühlenweg-Schule, Grundschule der Hansestadt Lübeck in Lübeck 7
+Lübeck Lübeck, Hansestadt 0702120 Grundschule Luther-Schule 7
+Lübeck Lübeck, Hansestadt 0702127 Grundschule Schule Roter Hahn, Lübeck 8
+Lübeck Lübeck, Hansestadt 0702095 Grundschule Schule Falkenfeld 9
+Lübeck Lübeck, Hansestadt 0702134 Grundschule Schule am Koggenweg 9
+Lübeck Lübeck, Hansestadt 0705100 Gymnasium Carl-Jacob-Burckhardt-Gymnasium, UNESCO-Projektschule 4
+Lübeck Lübeck, Hansestadt 0705101 Gymnasium Ernestinenschule 3
+Lübeck Lübeck, Hansestadt 0705102 Gymnasium Johanneum zu Lübeck 2
+Lübeck Lübeck, Hansestadt 0705103 Gymnasium Katharineum zu Lübeck - Städtisches Gymnasium mit altsprachlichem
+Zweig 2
+Lübeck Lübeck, Hansestadt 0705104 Gymnasium Oberschule zum Dom 2
+
+-- 4 of 16 --
+
+Lübeck Lübeck, Hansestadt 0705105 Gymnasium Thomas-Mann-Schule 2
+Lübeck Lübeck, Hansestadt 0705107 Gymnasium Trave-Gymnasium 4
+Lübeck Lübeck, Hansestadt 0707103 Gemeinschaftsschule Heinrich-Mann-Schule, Grund- und Gemeinschaftsschule der Hansestadt
+Lübeck in Lübeck 9
+Lübeck Lübeck, Hansestadt 0707104 Gemeinschaftsschule Grund-und Gemeinschaftsschule mit Oberstufe St. Jürgen der Hansestadt
+Lübeck in Lübeck 4
+Lübeck Lübeck, Hansestadt 0707105 Gemeinschaftsschule Julius-Leber-Schule, Gemeinschaftschule der Hansestadt Lübeck 9
+Lübeck Lübeck, Hansestadt 0707106 Gemeinschaftsschule Emanuel-Geibel-Schule 3
+Lübeck Lübeck, Hansestadt 0707107 Gemeinschaftsschule Schule Tremser Teich, Grund- und Gemeinschaftsschule der Hansestadt
+Lübeck 5
+Lübeck Lübeck, Hansestadt 0707108 Gemeinschaftsschule Trave - Grund- und Gemeinschaftsschule in der Hansestadt Lübeck 7
+Lübeck Lübeck, Hansestadt 0707109 Gemeinschaftsschule Holstentor-Gemeinschaftsschule 7
+Lübeck Lübeck, Hansestadt 0707110 Gemeinschaftsschule Albert-Schweitzer-Schule, Grund- und Gemeinschaftsschule der
+Hansestadt Lübeck in Lübeck 2
+Lübeck Lübeck, Hansestadt 0707111 Gemeinschaftsschule Willy-Brandt-Schule, Grund- und Gemeinschaftsschule der Hansestadt
+Lübeck in Lübeck 4
+Lübeck Lübeck, Hansestadt 0707112 Gemeinschaftsschule Baltic-Schule, Grund- und Gemeinschaftsschule mit Oberstufe der
+Hansestadt Lübeck in Lübeck 6
+Lübeck Lübeck, Hansestadt 0707113 Gemeinschaftsschule Geschwister-Prenski-Schule, Gemeinschaftsschule mit Oberstufe der
+Hansestadt Lübeck in Lübeck 3
+Lübeck Lübeck, Hansestadt 0707114 Gemeinschaftsschule Schule an der Wakenitz, Grund-und Gemeinschaftsschule der Hansestadt
+Lübeck 5
+Lübeck Lübeck, Hansestadt 0707115 Gemeinschaftsschule Gotthard Kühl-Schule, Grund-und Gemeinschaftsschule der Hansestadt
+Lübeck in Lübeck, 9
+Lübeck Lübeck, Hansestadt 0707116 Gemeinschaftsschule Schule am Meer, Grund- und Gemeinschaftsschule der Hansestadt
+Lübeck in Lübeck 4
+Neumünster Neumünster 0702142 Grundschule Schule Gadeland 2
+Neumünster Neumünster 0702151 Grundschule Grundschule an der Schwale, Grundschule der Stadt Neumünster in
+Neumünster 2
+Neumünster Neumünster 0702154 Grundschule Grundschule Wittorf 3
+Neumünster Neumünster 0702143 Grundschule Gartenstadtschule 4
+Neumünster Neumünster 0702148 Grundschule Rudolf-Tonner-Schule 4
+Neumünster Neumünster 0702155 Grundschule Pestalozzischule, Grundschule der Stadt Neumünster in Neumünster 4
+Neumünster Neumünster 0702150 Grundschule Timm-Kröger-Schule Neumünster 7
+Neumünster Neumünster 0702145 Grundschule Johann-Hinrich-Fehrs-Schule 8
+Neumünster Neumünster 0702146 Grundschule Mühlenhofschule 9
+Neumünster Neumünster 0702152 Grundschule Vicelinschule 9
+Neumünster Neumünster 0705150 Gymnasium Holstenschule 2
+Neumünster Neumünster 0705151 Gymnasium Immanuel-Kant-Schule 5
+Neumünster Neumünster 0705152 Gymnasium Klaus-Groth-Schule 2
+Neumünster Neumünster 0705154 Gymnasium Alexander-von-Humboldt-Schule 1
+Neumünster Neumünster 0707152 Gemeinschaftsschule Freiherr-vom-Stein-Schule, Gemeinschaftsschule der Stadt Neumünster in
+Neumünster 6
+Neumünster Neumünster 0707153 Gemeinschaftsschule Hans-Böckler-Schule, Grund- und Gemeinschaftsschule der Stadt
+Neumünster in Neumünster 5
+Neumünster Neumünster 0707154 Gemeinschaftsschule Gemeinschaftsschule Neumünster-Brachenfeld, Gemeinschaftsschule mit
+Oberstufe der Stadt Neumünster in Neumünster 4
+Neumünster Neumünster 0707155 Gemeinschaftsschule Gemeinschaftsschule Faldera, Gemeinschaftsschule mit Oberstufe der
+Stadt Neumünster 3
+Neumünster Neumünster 0707156 Gemeinschaftsschule Grund- und Gemeinschaftsschule Einfeld, Grund- und
+Gemeinschaftsschule der Stadt Neumünster in Neumünster 2
+Neumünster Neumünster 0707157 Gemeinschaftsschule Wilhelm-Tanck-Schule, Gemeinschaftsschule der Stadt Neumünster in
+Neumünster 9
+Nordfriesland Drelsdorf 0702333 Grundschule Grundschule des Schulverbandes Mittleres Nordfriesland in Drelsdorf mit
+Außenstelle in Joldelund - Lüttschool Drelsdorf-Joldelund 1
+Nordfriesland Klixbüll 0702359 Grundschule Grundschule Klixbüll 1
+Nordfriesland Ladelund 0702361 Grundschule Grundschule Ladelund-Achtrup,Grundschule des Schulverbandes
+Ladelund in Ladelund 1
+Nordfriesland Langenhorn 0702362 Grundschule Friedrich-Paulsen-Schule, Grundschule des Schulverbandes Mittleres
+Nordfriesland in Langenhorn 1
+Nordfriesland Ostenfeld (Husum) 0702378 Grundschule Otto-Thiesen-Schule 1
+Nordfriesland Rantrum 0702380 Grundschule Grundschule Rantrum 1
+Nordfriesland Risum-Lindholm 0702384 Grundschule Grundschule Risum-Lindholm der Gemeinde Risum-Lindholm 1
+
+-- 5 of 16 --
+
+Nordfriesland Süderlügum 0702396 Grundschule Grundschule Süderlügum 1
+Nordfriesland Sylt 0702400 Grundschule Boy-Lornsen-Grundschule - Grundschule in Tinnum - 1
+Nordfriesland Wenningstedt-Braderup
+(Sylt) 0702406 Grundschule Norddörferschule Wenningstedt 1
+Nordfriesland Witzwort 0702410 Grundschule Lütt Dörp School Witzwort-Schwabstedt 1
+Nordfriesland Friedrichstadt 0702337 Grundschule Schule an der Treene, Grundschule in Friedrichstadt des Schulverbandes
+Friedrichstadt in Friedrichstadt - Grundschule Friedrichstadt 2
+Nordfriesland Hattstedt 0702348 Grundschule Jens-Iwersen-Schule 2
+Nordfriesland Husum 0702357 Grundschule Iven-Agßen-Schule 2
+Nordfriesland Oster-Ohrstedt 0702379 Grundschule Grundschule Oster-Ohrstedt 2
+Nordfriesland Husum 0702354 Grundschule Klaus-Groth-Schule Husum mit Aussenstelle Bornschool Schobüll 3
+Nordfriesland Süderende 0702395 Grundschule Grundschule Föhr-Land, Grundschule des Amtes Föhr - Amrum in
+Süderende 3
+Nordfriesland Wyk auf Föhr 0702411 Grundschule Rüm-Hart-Schule 3
+Nordfriesland Bredstedt 0702329 Grundschule Grundschule Breklum-Bredstedt-Bordelum 4
+Nordfriesland Leck 0702363 Grundschule Grundschule an der Linde Leck/ Enge Sande 4
+Nordfriesland Sankt Peter-Ording 0702386 Grundschule Utholm-Schule Grundschule des Schulverbandes Eiderstedt in St. Peter-
+Ording 4
+Nordfriesland Tönning 0702404 Grundschule Schule am Ostertor - Grundschule der Stadt Tönning in Tönning 4
+Nordfriesland Garding 0702413 Grundschule Theodor-Mommsen-Schule Garding mit Außenstelle Tetenbüll 4
+Nordfriesland Niebüll 0702370 Grundschule Alwin-Lensch-Schule 5
+Nordfriesland Sylt 0702407 Grundschule Schule St. Nicolai, mit dem Standort Am Nordkamp, Grundschule mit
+Förderzentrumsteil der Gemeinde Sylt in Sylt 7
+Nordfriesland Husum 0702353 Grundschule Bürgerschule Husum 9
+Nordfriesland Husum 0705350 Gymnasium Hermann-Tast-Schule 2
+Nordfriesland Husum 0705351 Gymnasium Theodor-Storm-Schule 2
+Nordfriesland Niebüll 0705352 Gymnasium Friedrich-Paulsen-Schule, Gymnasium des Amtes Südtondern 1
+Nordfriesland Sankt Peter-Ording 0705353 Gymnasium Nordseeschule, Gymnasium mit Gemeinschaftsschulteil des
+Schulverbandes Eiderstedt, Europaschule 4
+Nordfriesland Sylt 0705354 Gymnasium Schulzentrum Sylt, Gymnasium mit Gemeinschaftsschulteil des
+Schulverbandes Sylt 4
+Nordfriesland Wyk auf Föhr 0705355 Gymnasium Eilun Feer Skuul, Gymnasium und Gemeinschaftsschule des Amtes Föhr-
+Amrum in Wyk auf Föhr 4
+Nordfriesland Husum 0707300 Gemeinschaftsschule Ferdinand-Tönnies-Schule, Gemeinschaftsschule der Stadt Husum in
+Husum 3
+Nordfriesland Husum 0707301 Gemeinschaftsschule Gemeinschaftsschule Nord, Gemeinschaftsschule der Stadt Husum in
+Husum 6
+Nordfriesland Viöl 0707302 Gemeinschaftsschule Grund- und Gemeinschaftsschule des Schulverbandes Viöl in Viöl mit
+Außenstelle in Haselund 2
+Nordfriesland Bredstedt 0707303 Gemeinschaftsschule Gemeinschaftsschule mit Förderzentrum des Schulverbandes Mittleres
+Nordfriesland in Bredstedt 3
+Nordfriesland Tönning 0707304 Gemeinschaftsschule Eider-Treene-Schule 2
+Nordfriesland Leck 0707305 Gemeinschaftsschule Gemeinschaftsschule an der Lecker Au, Gemeinschaftsschule des
+Schulverbandes Karrharde in Leck 5
+Nordfriesland Mildstedt 0707306 Gemeinschaftsschule Grund- und Gemeinschaftsschule der Gemeinde Mildstedt in Mildstedt mit
+Außenstelle in Horstedt 2
+Nordfriesland Nordstrand 0707310 Gemeinschaftsschule Herrendeichschule Grund- und Gemeinschaftsschule Nordstrand mit
+Außenstelle Halligschule Langeneß und Halligschule Nordstrandischmoor 4
+Nordfriesland Niebüll 0707311 Gemeinschaftsschule Gemeinschaftsschule der Stadt Niebüll in Niebüll 4
+Nordfriesland Nebel 0707312 Gemeinschaftsschule Öömrang-Skuul, Gemeinschaftsschule mit Grundschul- und
+Förderzentrumsteil des Amtes Föhr-Amrum in Nebel 2
+Nordfriesland Pellworm 0707313 Gemeinschaftsschule Hermann-Neuton-Paulsen-Schule Grund- und Gemeinschaftsschule 2
+Nordfriesland Neukirchen
+(Nordfriesland) 0707314 Gemeinschaftsschule Emil-Nolde-Schule, Grund- und Gemeinschaftsschule Südtondern des
+Schulverbandes Südtondern-Nord, mit den 2
+Nordfriesland Hallig Hooge 0707315 Gemeinschaftsschule Halligschule Hooge 1
+Ostholstein Wangels 0702440 Grundschule Grundschule Oldenburg-Land, Grundschule des Schulverbandes
+Oldenburg-Land in Hansühn 1
+Ostholstein Fehmarn 0702449 Grundschule Grundschule Landkirchen 1
+Ostholstein Sieversdorf 0702471 Grundschule Grundschule Sieversdorf 1
+Ostholstein Süsel 0702475 Grundschule Grundschule der Gemeinde Süsel in Süsel 1
+Ostholstein Stockelsdorf 0702478 Grundschule Erich Kästner Grundschule 1
+
+-- 6 of 16 --
+
+Ostholstein Fehmarn 0702428 Grundschule Grundschule der Stadt Fehmarn in Burg 2
+Ostholstein Grube 0702439 Grundschule Grundschule Grube 2
+Ostholstein Ratekau 0702464 Grundschule Grundschule Ratekau 2
+Ostholstein Grömitz 0702465 Grundschule Grundschule Grömitz 2
+Ostholstein Stockelsdorf 0702472 Grundschule Gerhart-Hauptmann-Schule 2
+Ostholstein Stockelsdorf 0702474 Grundschule Grundschule Ravensbusch 2
+Ostholstein Bosau 0702479 Grundschule Heinrich-Harms-Schule, Grundschule der Gemeinde Bosau in Hutzfeld 2
+Ostholstein Schönwalde am
+Bungsberg 0702469 Grundschule Friedrich-Hiller-Schule, Grundschule des Schulverbandes Bungsberg in
+Schönwalde 3
+Ostholstein Sereetz 0702470 Grundschule Achim-Bröger-Schule, Grundschule Sereetz 3
+Ostholstein Bad Schwartau 0702422 Grundschule Grundschule der Stadt Bad Schwartau in Bad Schwartau 4
+Ostholstein Bad Schwartau 0702423 Grundschule Grundschule Cleverbrück 4
+Ostholstein Eutin 0702433 Grundschule Gustav-Peters-Schule, Grundschule der Stadt Eutin in Eutin 4
+Ostholstein Heiligenhafen 0702443 Grundschule Theodor-Storm-Schule, Grundschule der Stadt Heiligenhafen in
+Heiligenhafen 4
+Ostholstein Malente 0702452 Grundschule Grundschule Malente 4
+Ostholstein Neustadt in Holstein 0702455 Grundschule Grundschule Neustädter Bucht der Stadt Neustadt in Holstein 4
+Ostholstein Pansdorf 0702460 Grundschule Otfried-Preußler-Schule, Grundschule der Gemeinde Ratekau in Pansdorf 4
+Ostholstein Scharbeutz 0702467 Grundschule Ostsee-Grundschule Scharbeutz 4
+Ostholstein Oldenburg in Holstein 0702459 Grundschule Grundschule am Wasserquell 5
+Ostholstein Eutin 0705401 Gymnasium Carl-Maria-von-Weber-Schule 1
+Ostholstein Eutin 0705402 Gymnasium Johann-Heinrich-Voss-Schule 1
+Ostholstein Neustadt in Holstein 0705403 Gymnasium Städtisches Gymnasium Neustadt in Holstein, Küstengymnasium
+Neustadt 2
+Ostholstein Oldenburg in Holstein 0705404 Gymnasium Freiherr-vom-Stein-Gymnasium der Stadt Oldenburg 1
+Ostholstein Bad Schwartau 0705405 Gymnasium Leibniz-Gymnasium 1
+Ostholstein Timmendorfer Strand 0705406 Gymnasium Ostsee-Gymnasium 2
+Ostholstein Bad Schwartau 0705407 Gymnasium Gymnasium am Mühlenberg 1
+Ostholstein Fehmarn 0707351 Gemeinschaftsschule Inselschule Fehmarn, Gemeinschaftsschule mit Oberstufe und
+Förderzentrumsteil der Stadt Fehmarn 2
+Ostholstein Scharbeutz 0707352 Gemeinschaftsschule Grund- und Gemeinschaftsschule der Gemeinde Scharbeutz in Pönitz mit
+Oberstufe 2
+Ostholstein Ahrensbök 0707353 Gemeinschaftsschule Arnesboken-Schule, Grund- und Gemeinschaftsschule mit Förderzentrum
+der Gemeinde Ahrensbök in Ahrensbök 2
+Ostholstein Lensahn 0707354 Gemeinschaftsschule Grund-und Gemeinschaftschule des Amtes Lensahn in Lensahn 2
+Ostholstein Stockelsdorf 0707355 Gemeinschaftsschule Gerhard-Hilgendorf-Schule,Gemeinschaftsschule der Gemeinde
+Stockelsdorf in Stockelsdorf 3
+Ostholstein Oldenburg in Holstein 0707356 Gemeinschaftsschule Wagrienschule, Gemeinschaftsschule mit Förderzentrumsteil der Stadt
+Oldenburg in Holstein 4
+Ostholstein Bad Schwartau 0707357 Gemeinschaftsschule Elisabeth-Selbert-Gemeinschaftsschule 6
+Ostholstein Malente 0707359 Gemeinschaftsschule Gemeinschaftsschule der Gemeinde Malente in Malente, Schule an den
+Auewiesen 3
+Ostholstein Eutin 0707360 Gemeinschaftsschule Gemeinschaftsschule der Stadt Eutin in Eutin - Wilhelm-Wisser-Schule
+Eutin 5
+Ostholstein Neustadt in Holstein 0707361 Gemeinschaftsschule Jacob-Lienau-Schule, Gemeinschaftsschule der Stadt Neustadt in
+Holstein 4
+Ostholstein Ratekau 0707362 Gemeinschaftsschule César-Klein-Schule, Gemeinschaftsschule mit Oberstufe der Gemeinde
+Ratekau 3
+Ostholstein Timmendorfer Strand 0707363 Gemeinschaftsschule Grund- und Gemeinschaftsschule Timmendorfer Strand 3
+Ostholstein Grömitz 0707364 Gemeinschaftsschule Gemeinschaftsschule der Gemeinde Grömitz in Grömitz 4
+Ostholstein Heiligenhafen 0707365 Gemeinschaftsschule Warderschule - Gemeinschaftsschule der Stadt Heiligenhafen 4
+Pinneberg Ellerbek 0702494 Grundschule Hermann-Löns-Schule 1
+Pinneberg Haseldorf 0702507 Grundschule Grundschule Haseldorfer Marsch 1
+Pinneberg Hasloh 0702508 Grundschule Peter-Lunding-Schule 1
+Pinneberg Heidgraben 0702509 Grundschule Grundschule Heidgraben 1
+
+-- 7 of 16 --
+
+Pinneberg Hemdingen 0702512 Grundschule Grundschule Hemdingen, Grundschule des Amtes Rantzau in Hemdingen 1
+Pinneberg Quickborn (Pinneberg) 0702530 Grundschule Grundschule Waldschule 1
+Pinneberg Seester 0702537 Grundschule Grundschule Seester 1
+Pinneberg Klein Offenseth-
+Sparrieshoop 0702539 Grundschule Grundschule Wiepeldorn, Grundschule der Gemeinde Klein Offenseth-
+Sparrieshoop in Klein Offenseth-Sparrieshoop 1
+Pinneberg Appen 0702485 Grundschule Grundschule Appen 2
+Pinneberg Borstel-Hohenraden 0702490 Grundschule Grundschule Borstel-Hohenraden 2
+Pinneberg Heist 0702510 Grundschule Grundschule Heist 2
+Pinneberg Brande-Hörnerkirchen 0702514 Grundschule Grundschule Hörnerkirchen 2
+Pinneberg Holm (Pinneberg) 0702515 Grundschule Heinrich-Eschenburg-Schule 2
+Pinneberg Klein Nordende 0702516 Grundschule Grundschule Klein Nordende-Lieth 2
+Pinneberg Kölln-Reisiek 0702517 Grundschule Grundschule Kölln-Reisiek 2
+Pinneberg Kummerfeld 0702518 Grundschule Bilsbek-Schule, Grundschule der Gemeinden Prisdorf und Kummerfeld 2
+Pinneberg Moorrege 0702520 Grundschule Grundschule Moorrege 2
+Pinneberg Pinneberg 0702527 Grundschule Grundschule Waldenau 2
+Pinneberg Rellingen 0702533 Grundschule Brüder-Grimm-Schule 2
+Pinneberg Tangstedt (Pinneberg) 0702540 Grundschule Grundschule Tangstedt 2
+Pinneberg Halstenbek 0702550 Grundschule Grundschule Bickbargen 2
+Pinneberg Tornesch 0702552 Grundschule Johannes-Schwennesen-Schule 2
+Pinneberg Bönningstedt 0702488 Grundschule Grundschule Bönningstedt 3
+Pinneberg Pinneberg 0702526 Grundschule Grundschule Thesdorf 3
+Pinneberg Rellingen 0702534 Grundschule Erich Kästner Schule Rellingen-Krupunder 3
+Pinneberg Wedel 0702549 Grundschule Moorwegschule 3
+Pinneberg Barmstedt 0702554 Grundschule James-Krüss-Schule, Grundschule der Stadt Barmstedt in Barmstedt 3
+Pinneberg Quickborn (Pinneberg) 0702529 Grundschule Grundschule Goethe-Schule 4
+Pinneberg Schenefeld 0702536 Grundschule Grundschule Altgemeinde, Schenefeld 4
+Pinneberg Schenefeld 0702535 Grundschule Gorch-Fock-Schule 5
+Pinneberg Tornesch 0702541 Grundschule Fritz-Reuter-Schule, Tornesch 5
+Pinneberg Uetersen 0702544 Grundschule Grundschule Birkenallee, Grundschule der Stadt Uetersen in Uetersen 5
+Pinneberg Wedel 0702546 Grundschule Grundschule Altstadt 5
+Pinneberg Quickborn (Pinneberg) 0702551 Grundschule Grundschule Mühlenberg 5
+Pinneberg Elmshorn 0702499 Grundschule Grundschule Kaltenweide, Elmshorn 6
+Pinneberg Elmshorn 0702502 Grundschule Timm-Kröger-Schule Elmshorn 6
+Pinneberg Elmshorn 0702496 Grundschule Friedrich-Ebert-Schule 7
+Pinneberg Elmshorn 0702503 Grundschule Astrid-Lindgren-Schule 7
+Pinneberg Pinneberg 0702521 Grundschule Hans-Claussen-Schule 7
+Pinneberg Pinneberg 0702522 Grundschule Helene-Lange-Schule Pinneberg 8
+Pinneberg Wedel 0702545 Grundschule Albert-Schweitzer-Schule 8
+Pinneberg Elmshorn 0702497 Grundschule Grundschule Hafenstraße 9
+Pinneberg Elmshorn 0702498 Grundschule Grundschule Hainholz, Elmshorn 9
+Pinneberg Pinneberg 0702523 Grundschule Grundschule Rübekamp 9
+Pinneberg Uetersen 0702542 Grundschule Friedrich-Ebert-Grundschule 9
+Pinneberg Elmshorn 0705450 Gymnasium Bismarckschule Elmshorn 3
+Pinneberg Elmshorn 0705451 Gymnasium Elsa-Brändström-Schule 2
+
+-- 8 of 16 --
+
+Pinneberg Pinneberg 0705452 Gymnasium Johannes-Brahms-Schule 2
+Pinneberg Pinneberg 0705453 Gymnasium Theodor-Heuss-Schule 3
+Pinneberg Quickborn (Pinneberg) 0705454 Gymnasium Dietrich-Bonhoeffer-Gymnasium 2
+Pinneberg Uetersen 0705455 Gymnasium Ludwig-Meyn-Gymnasium, Gymnasium der Stadt Uetersen in Uetersen 3
+Pinneberg Wedel 0705456 Gymnasium Johann-Rist-Gymnasium 2
+Pinneberg Quickborn (Pinneberg) 0705457 Gymnasium Elsensee-Gymnasium 1
+Pinneberg Barmstedt 0705458 Gymnasium Carl-Friedrich-von-Weizsäcker-Gymnasium 2
+Pinneberg Halstenbek 0705459 Gymnasium Wolfgang-Borchert-Gymnasium 2
+Pinneberg Schenefeld 0705704 Gymnasium Gymnasium Schenefeld 2
+Pinneberg Halstenbek 0707404 Gemeinschaftsschule Grund- und Gemeinschaftsschule an der Bek in Halstenbek 5
+Pinneberg Pinneberg 0707405 Gemeinschaftsschule GuGS im Quellental, Grund- und Gemeinschaftsschule der Stadt
+Pinneberg in Pinneberg 5
+Pinneberg Bönningstedt 0707406 Gemeinschaftsschule Gemeinschaftsschule des Amtes Pinnau in Bönningstedt,
+Gemeinschaftschule Rugenbergen 2
+Pinneberg Elmshorn 0707407 Gemeinschaftsschule Boje-C.-Steffen-Gemeinschaftsschule, Gemeinschaftsschule der Stadt
+Elmshorn in Elmshorn 8
+Pinneberg Elmshorn 0707408 Gemeinschaftsschule Anne-Frank-Gemeinschaftsschule, Gemeinschaftsschule der Stadt
+Elmshorn in Elmshorn 7
+Pinneberg Rellingen 0707409 Gemeinschaftsschule Caspar-Voght-Schule, Grund- und Gemeinschaftsschule mit Oberstufe
+i.E. der Gemeinde Rellingen in Rellingen 4
+Pinneberg Schenefeld 0707410 Gemeinschaftsschule Gemeinschaftsschule Achter de Weiden, Gemeinschaftsschule der Stadt
+Schenefeld in Schenefeld 4
+Pinneberg Barmstedt 0707411 Gemeinschaftsschule Gottfried-Semper-Schule, Grund- und Gemeinschaftsschule der Stadt
+Barmstedt in Barmstedt 4
+Pinneberg Elmshorn 0707412 Gemeinschaftsschule Erich Kästner Gemeinschaftsschule mit Oberstufe - Schule der Stadt
+Elmshorn 5
+Pinneberg Tornesch 0707413 Gemeinschaftsschule Klaus-Groth-Schule, Gemeinschaftsschule mit Oberstufe des
+Schulverbandes Tornesch-Uetersen in Tornesch 4
+Pinneberg Pinneberg 0707414 Gemeinschaftsschule Johann-Comenius-Schule Thesdorf, Gemeinschaftsschule mit Oberstufe
+der Stadt Pinneberg in Pinneberg 3
+Pinneberg Wedel 0707415 Gemeinschaftsschule Gebrüder-Humboldt-Schule, Gemeinschaftsschule mit Oberstufe der
+Stadt Wedel in Wedel 3
+Pinneberg Helgoland 0707416 Gemeinschaftsschule James-Krüss-Schule, Grund- und Gemeinschaftsschule der Gemeinde
+Helgoland auf Helgoland 5
+Pinneberg Wedel 0707417 Gemeinschaftsschule Ernst-Barlach-Gemeinschaftsschule, Gemeinschaftsschule der Stadt
+Wedel in Wedel 7
+Pinneberg Pinneberg 0707418 Gemeinschaftsschule Schulzentrum Nord, Grund- und Gemeinschaftsschule in Pinneberg 9
+Pinneberg Moorrege 0707419 Gemeinschaftsschule Gemeinschaftsschule des Schulverbandes Schulzentrum Moorrege in
+Moorrege, Gemeinschaftsschule Am Himmelsbarg 2
+Pinneberg Quickborn (Pinneberg) 0707420 Gemeinschaftsschule Comenius-Schule Quickborn, Gemeinschaftsschule der Stadt Quickborn
+in Quickborn 6
+Pinneberg Uetersen 0707421 Gemeinschaftsschule Rosenstadtschule Uetersen, Grund- und Gemeinschaftsschule der Stadt
+Uetersen in Uetersen 7
+Plön Ascheberg (Holstein) 0702565 Grundschule Schule Vogelsang, Grundschule des Schulverbandes Plön Stadt und Land
+in Ascheberg 1
+Plön Blekendorf 0702567 Grundschule Ostseeschule Grundschule des Schulverbandes Blekendorf in Blekendorf 1
+Plön Bönebüttel 0702581 Grundschule Grundschule der Gemeinde Bönebüttel in Bönebüttel 1
+Plön Schwentinental 0702584 Grundschule Astrid-Lindgren-Grundschule 1
+Plön Mönkeberg 0702590 Grundschule Grundschule an der Bake 1
+Plön Probsteierhagen 0702597 Grundschule Dörfergemeinschaftsschule Probsteierhagen 1
+Plön Schwartbuck 0702604 Grundschule Grundschule Schwartbuck 1
+Plön Schellhorn 0702608 Grundschule Grundschule Schellhorn-Trent 1
+Plön Laboe 0702587 Grundschule Grundschule Laboe 2
+Plön Plön 0702593 Grundschule Rodomstorschule 2
+Plön Wankendorf 0702609 Grundschule Grundschule Wankendorf und Umgebung, Grundschule des Amtes
+Bokhorst-Wankendorf in Wankendorf 2
+Plön Kirchbarkau 0702583 Grundschule Grundschule Barkauer Land 3
+Plön Lütjenburg 0702589 Grundschule Grundschule der Stadt Lütjenburg, der Gemeinde Giekau und der
+Gemeinde Panker in Lütjenburg 3
+Plön Preetz 0702594 Grundschule Friedrich-Ebert-Schule 3
+Plön Schwentinental 0702598 Grundschule Grundschule am Schwentinepark, Grundschule der Stadt Schwentinental
+in Schwentinental 3
+Plön Preetz 0702596 Grundschule Hermann-Ehlers-Schule 4
+
+-- 9 of 16 --
+
+Plön Schönberg (Holstein) 0702602 Grundschule Grundschule an den Salzwiesen, Grundschule des Schulverbandes
+Probstei in Schönberg 4
+Plön Plön 0702592 Grundschule Breitenauschule 5
+Plön Lütjenburg 0705500 Gymnasium Gymnasium im Hoffmann-von-Fallersleben-Schulzentrum, Lütjenburg 1
+Plön Plön 0705501 Gymnasium Gymnasium Schloss Plön 1
+Plön Preetz 0705502 Gymnasium Friedrich-Schiller-Gymnasium 2
+Plön Heikendorf 0705503 Gymnasium Heinrich-Heine-Schule 2
+Plön Preetz 0707450 Gemeinschaftsschule Theodor-Heuss-Gemeinschaftsschule 3
+Plön Schönberg (Holstein) 0707451 Gemeinschaftsschule Gemeinschaftsschule Probstei, Gemeinschaftsschule mit Oberstufe des
+Schulverbandes Probstei in Schönberg 2
+Plön Schwentinental 0707452 Gemeinschaftsschule Albert-Schweitzer-Schule 3
+Plön Heikendorf 0707453 Gemeinschaftsschule Grund-und Gemeinschaftsschule der Gemeinde Heikendorf in Heikendorf 5
+Plön Lütjenburg 0707454 Gemeinschaftsschule Gemeinschaftsschule im Hoffmann-von-Fallersleben-Schulzentrum,
+Lütjenburg 2
+Plön Schönkirchen 0707455 Gemeinschaftsschule Schule im Augustental Schönkirchen 2
+Plön Plön 0707456 Gemeinschaftsschule Schule am Schiffsthal,Gemeinschaftsschule Plön, Gemeinschaftsschule
+des Schulverbandes Plön Stadt und Land in Plön 4
+Rendsburg-
+Eckernförde Alt Duvenstedt 0702621 Grundschule Grundschule Alt Duvenstedt 1
+Rendsburg-
+Eckernförde Ascheffel 0702624 Grundschule Grundschule Ascheffel, Grundschule des Schulverbandes Ascheffel 1
+Rendsburg-
+Eckernförde Aukrug 0702625 Grundschule Aukrugschule 1
+Rendsburg-
+Eckernförde Barkelsby 0702627 Grundschule Grundschule Barkelsby 1
+Rendsburg-
+Eckernförde Bordesholm 0702633 Grundschule Lindenschule 1
+Rendsburg-
+Eckernförde Bredenbek 0702637 Grundschule Grundschule des Amtes Achterwehr in Bredenbek 1
+Rendsburg-
+Eckernförde Dänischenhagen 0702644 Grundschule Offene Ganztagsgrundschule Dänischenhagen 1
+Rendsburg-
+Eckernförde Felde 0702652 Grundschule Grundschule des Amtes Achterwehr in Felde 1
+Rendsburg-
+Eckernförde Fleckeby 0702654 Grundschule Grundschule Fleckeby 1
+Rendsburg-
+Eckernförde Groß Vollstedt 0702666 Grundschule Grundschule des Schulverbandes Nortorf in Groß Vollstedt 1
+Rendsburg-
+Eckernförde Langwedel 0702687 Grundschule Grundschule Langwedel 1
+Rendsburg-
+Eckernförde Osdorf 0702704 Grundschule Grundschule des Schulverbandes Osdorf / Noer / Felm in Osdorf 1
+Rendsburg-
+Eckernförde Strande 0702728 Grundschule Grundschule Strande 1
+Rendsburg-
+Eckernförde Schwedeneck 0702730 Grundschule Grundschule Surendorf 1
+Rendsburg-
+Eckernförde Timmaspe 0702733 Grundschule Grundschule des Schulverbandes Nortorf in Timmaspe 1
+Rendsburg-
+Eckernförde Wasbek 0702737 Grundschule Hermann-Claudius-Schule 1
+Rendsburg-
+Eckernförde Wattenbek 0702738 Grundschule Landschule an der Eider, Grundschule des Schulverbandes Bordesholm in
+Wattenbek 1
+Rendsburg-
+Eckernförde Altenholz 0702622 Grundschule Claus-Rixen-Schule, Grundschule der Gemeinde Altenholz in Altenholz 2
+Rendsburg-
+Eckernförde Borgstedt 0702635 Grundschule Grundschule Borgstedt 2
+Rendsburg-
+Eckernförde Gettorf 0702660 Grundschule Parkschule Gettorf, Grundschule des Schulverbandes Gettorf und
+Umgegend in Gettorf 2
+Rendsburg-
+Eckernförde Hamdorf 0702669 Grundschule Grundschule des Amtes Hohner Harde in Hamdorf 2
+Rendsburg-
+Eckernförde Holtsee 0702676 Grundschule Schule am See, Grundschule des Schulverbandes Groß
+Wittensee/Holtsee in Holtsee 2
+Rendsburg-
+Eckernförde Waabs 0702681 Grundschule Grundschule Mittelschwansen, Grundschule des Amtes Schlei-Ostsee in
+Waabs 2
+Rendsburg-
+Eckernförde Osterrönfeld 0702706 Grundschule Aukamp-Schule Osterrönfeld 2
+Rendsburg-
+Eckernförde Molfsee 0702709 Grundschule Grundschule Eidertal, Grundschule der Gemeinden Molfsee und
+Mielkendorf in Molfsee 2
+Rendsburg-
+Eckernförde Rieseby 0702718 Grundschule Schleischule Rieseby, Grundschule der Gemeinde Rieseby in Rieseby 2
+Rendsburg-
+Eckernförde Schinkel 0702721 Grundschule Grundschule am Nord-Ostsee-Kanal, Grundschule des Schulverbandes
+Schinkel/Neuwittenbek in Schinkel 2
+Rendsburg-
+Eckernförde Quarnbek 0702729 Grundschule Regenbogenschule, Grundschule des Amtes Achterwehr in Strohbrück 2
+Rendsburg-
+Eckernförde Owschlag 0702743 Grundschule Grundschule Owschlag, Grundschule der Gemeinde Owschlag 2
+Rendsburg-
+Eckernförde Hohenwestedt 0702673 Grundschule Schule am Park, Grundschule des Schulverbandes Hohenwestedt in
+Hohenwestedt 3
+
+-- 10 of 16 --
+
+Rendsburg-
+Eckernförde Kronshagen 0702684 Grundschule Grundschule an den Eichen, Grundschule der Gemeinde Kronshagen in
+Kronshagen 3
+Rendsburg-
+Eckernförde Eckernförde 0702742 Grundschule Sprottenschule Grundschule der Stadt Eckernförde in Eckernförde 3
+Rendsburg-
+Eckernförde Rendsburg 0702744 Grundschule Grundschule Nobiskrug 3
+Rendsburg-
+Eckernförde Eckernförde 0702650 Grundschule Fritz-Reuter-Schule, Grundschule der Stadt Eckernförde in Eckernförde 4
+Rendsburg-
+Eckernförde Büdelsdorf 0702642 Grundschule Astrid-Lindgren-Schule, Grundschule der Stadt Büdelsdorf in Büdelsdorf 5
+Rendsburg-
+Eckernförde Eckernförde 0702649 Grundschule Richard-Vosgerau-Schule 5
+Rendsburg-
+Eckernförde
+Nortorf (Rendsburg-
+Eckernförde) 0702701 Grundschule Grundschule des Schulverbandes Nortorf in Nortorf 5
+Rendsburg-
+Eckernförde Rendsburg 0702712 Grundschule Grundschule der Stadt Rendsburg - Schule Obereider 8
+Rendsburg-
+Eckernförde Rendsburg 0702713 Grundschule Schule Neuwerk - Moltkeschule 8
+Rendsburg-
+Eckernförde Rendsburg 0702716 Grundschule Schule Rotenhof, Grundschule der Stadt Rendsburg in Rendsburg 8
+Rendsburg-
+Eckernförde Rendsburg 0702714 Grundschule Schule Mastbrook 9
+Rendsburg-
+Eckernförde Eckernförde 0705550 Gymnasium Jungmannschule 2
+Rendsburg-
+Eckernförde Rendsburg 0705551 Gymnasium Helene-Lange-Gymnasium 2
+Rendsburg-
+Eckernförde Rendsburg 0705552 Gymnasium Herderschule 3
+Rendsburg-
+Eckernförde Altenholz 0705553 Gymnasium Gymnasium Altenholz 1
+Rendsburg-
+Eckernförde Kronshagen 0705554 Gymnasium Gymnasium Kronshagen 2
+Rendsburg-
+Eckernförde Rendsburg 0705555 Gymnasium Gymnasium Kronwerk 3
+Rendsburg-
+Eckernförde Gettorf 0705556 Gymnasium Isarnwohld-Schule Gettorf, Gymnasium mit Gemeinschaftsschulteil des
+Schulverbandes Gettorf und Umgegend in Gettorf 1
+Rendsburg-
+Eckernförde Hohenwestedt 0705557 Gymnasium Schule Hohe Geest, Gymnasium mit Gemeinschaftsschulteil des
+Schulverbandes Hohenwestedt, in Hohenwestedt 3
+Rendsburg-
+Eckernförde Bordesholm 0707501 Gemeinschaftsschule Hans-Brueggemann-Schule, Gemeinschaftsschule mit Oberstufe des
+Schulverbandes Bordesholm in Bordesholm 2
+Rendsburg-
+Eckernförde Rendsburg 0707502 Gemeinschaftsschule Schule Altstadt, Gemeinschaftsschule der Stadt Rendsburg 9
+Rendsburg-
+Eckernförde Büdelsdorf 0707503 Gemeinschaftsschule Heinrich-Heine-Schule, Gemeinschaftsschule mit Oberstufe der Stadt
+Büdelsdorf 3
+Rendsburg-
+Eckernförde
+Nortorf (Rendsburg-
+Eckernförde) 0707504 Gemeinschaftsschule Gemeinschaftsschule mit Oberstufe des Schulverbandes Nortorf in Nortorf 3
+Rendsburg-
+Eckernförde Fockbek 0707505 Gemeinschaftsschule Bergschule, Grund- und Gemeinschaftsschule Fockbek 3
+Rendsburg-
+Eckernförde Hanerau-Hademarschen 0707506 Gemeinschaftsschule Theodor-Storm-Dörfergemeinschaftsschule, Grund- und
+Gemeinschaftsschule mit Förderzentrumsteil 2
+Rendsburg-
+Eckernförde Eckernförde 0707508 Gemeinschaftsschule Gudewerdt Gemeinschaftsschule der Stadt Eckernförde in Eckernförde 2
+Rendsburg-
+Eckernförde Kronshagen 0707509 Gemeinschaftsschule Gemeinschaftsschule der Gemeinde Kronshagen in Kronshagen 6
+Rendsburg-
+Eckernförde Eckernförde 0707510 Gemeinschaftsschule Peter-Ustinov-Schule, Gemeinschaftsschule mit Oberstufe der Stadt
+Eckernförde in Eckernförde 3
+Rendsburg-
+Eckernförde Hohn 0707511 Gemeinschaftsschule Theodor-Storm-Schule, Grund- und Gemeinschaftsschule des Amtes
+Hohner Harde in Hohn 2
+Rendsburg-
+Eckernförde Rendsburg 0707512 Gemeinschaftsschule Christian-Timm-Schule, Gemeinschaftsschule der Stadt Rendsburg in
+Rendsburg 7
+Rendsburg-
+Eckernförde Flintbek 0707513 Gemeinschaftsschule Schule am Eiderwald, Grund- und Gemeinschaftsschule der Gemeinde
+Flintbek in Flintbek 4
+Rendsburg-
+Eckernförde Altenholz 0707514 Gemeinschaftsschule Gemeinschaftsschule der Gemeinde Altenholz in Altenholz 4
+Rendsburg-
+Eckernförde Schacht-Audorf 0707515 Gemeinschaftsschule Grund- und Gemeinschaftsschule des Schulverbandes Schacht-Audorf in
+Schacht-Audorf 2
+Rendsburg-
+Eckernförde Jevenstedt 0707517 Gemeinschaftsschule Schule am Ochsenweg, Grund- und Gemeinschaftsschule des Amtes
+Jevenstedt in Jevenstedt 3
+Schleswig-
+Flensburg Großenwiehe 0702240 Grundschule Grundschule der Gemeinde Großenwiehe in Großenwiehe 1
+Schleswig-
+Flensburg Großsolt 0702242 Grundschule Schule im Grünen, Grundschule des Schulverbandes Mittelangeln in
+Großsolt 1
+Schleswig-
+Flensburg Husby 0702247 Grundschule Grundschule Husby 1
+Schleswig-
+Flensburg Langballig 0702250 Grundschule Grundschule Langballig 1
+Schleswig-
+Flensburg Medelby 0702253 Grundschule Grundschule Medelby 1
+Schleswig-
+Flensburg Oeversee 0702254 Grundschule Grundschule Oeversee 1
+Schleswig-
+Flensburg Steinbergkirche 0702260 Grundschule Grundschule Steinbergkirche 1
+Schleswig-
+Flensburg Wanderup 0702263 Grundschule Grundschule Wanderup 1
+Schleswig-
+Flensburg Erfde 0702267 Grundschule Grundschule Stapelholm, Grundschule des Schulverbandes Stapelholm in
+Erfde mit den Außenstellen Norderstapel und Bergenhusen 1
+
+-- 11 of 16 --
+
+Schleswig-
+Flensburg Busdorf 0702753 Grundschule Grundschule Haddeby in Busdorf des Amtes Haddeby 1
+Schleswig-
+Flensburg Schaalby 0702779 Grundschule Boy-Lornsen-Schule Südangeln 1
+Schleswig-
+Flensburg Schuby 0702787 Grundschule Grundschule Schuby des Amtes Arensharde in Schuby 1
+Schleswig-
+Flensburg Glücksburg (Ostsee) 0702239 Grundschule Grundschule Glücksburg, Grundschule der Stadt Glücksburg 2
+Schleswig-
+Flensburg Mittelangeln 0702256 Grundschule Regenbogenschule 2
+Schleswig-
+Flensburg Hasselberg 0702257 Grundschule Grundschule Kieholm 2
+Schleswig-
+Flensburg Sieverstedt 0702258 Grundschule Schule im Autal 2
+Schleswig-
+Flensburg Sörup 0702259 Grundschule Grundschule Südensee-Schule 2
+Schleswig-
+Flensburg Sterup 0702266 Grundschule Grundschule Sterup 2
+Schleswig-
+Flensburg Jübek 0702763 Grundschule Grundschule Jübek 2
+Schleswig-
+Flensburg Karby 0702764 Grundschule Grundschule Karby 2
+Schleswig-
+Flensburg Treia 0702799 Grundschule Grundschule Treia 2
+Schleswig-
+Flensburg Gelting 0702238 Grundschule Georg-Asmussen-Schule Gelting 3
+Schleswig-
+Flensburg Wees 0702265 Grundschule Grundschule Munkbrarup, Grundschule des Amtes Langballig in Wees 3
+Schleswig-
+Flensburg Kappeln 0702768 Grundschule Gorch-Fock-Schule 4
+Schleswig-
+Flensburg Süderbrarup 0702792 Grundschule Nordlicht-Schule, Grundschule des Amtes Süderbrarup in Süderbrarup 4
+Schleswig-
+Flensburg Schleswig 0702782 Grundschule Wilhelminenschule 5
+Schleswig-
+Flensburg Schleswig 0702785 Grundschule Schule Nord, Grundschule der Stadt Schleswig in Schleswig 5
+Schleswig-
+Flensburg Böklund 0702751 Grundschule Auenwaldschule Grundschule Böklund 6
+Schleswig-
+Flensburg Schleswig 0702784 Grundschule Bugenhagenschule, Grundschule der Stadt Schleswig in Schleswig 6
+Schleswig-
+Flensburg Schleswig 0702781 Grundschule St. Jürgen-Schule 9
+Schleswig-
+Flensburg Kappeln 0705600 Gymnasium Klaus-Harms-Schule 1
+Schleswig-
+Flensburg Mittelangeln 0705601 Gymnasium Bernstorff-Gymnasium Satrup 2
+Schleswig-
+Flensburg Schleswig 0705602 Gymnasium Lornsenschule 1
+Schleswig-
+Flensburg Schleswig 0705603 Gymnasium Domschule 2
+Schleswig-
+Flensburg Schafflund 0707550 Gemeinschaftsschule Grund- und Gemeinschaftsschule des Schulverbandes Schafflund in
+Schafflund 3
+Schleswig-
+Flensburg Handewitt 0707552 Gemeinschaftsschule Siegfried-Lenz-Schule Gemeinschaftsschule Handewitt der Gemeinde
+Handewitt in Handewitt mit Grundschulteil und Oberstufe 2
+Schleswig-
+Flensburg Schleswig 0707553 Gemeinschaftsschule Dannewerkschule, Gemeinschaftsschule der Stadt Schleswig in Schleswig 7
+Schleswig-
+Flensburg Sterup 0707554 Gemeinschaftsschule Heinrich-Andresen-Schule - Gemeinschaftsschule Geltinger Bucht 1
+Schleswig-
+Flensburg Harrislee 0707555 Gemeinschaftsschule Zentralschule Harrislee, Grund- und Gemeinschaftsschule der Gemeinde
+Harrislee in Harrislee 5
+Schleswig-
+Flensburg Tarp 0707556 Gemeinschaftsschule Alexander-Behm-Schule, Grund- und Gemeinschaftsschule der Gemeinde
+Tarp in Tarp 5
+Schleswig-
+Flensburg Kappeln 0707557 Gemeinschaftsschule Gemeinschaftsschule an der Schlei, Gemeinschaftsschule Kappeln in
+Kappeln 5
+Schleswig-
+Flensburg Mittelangeln 0707558 Gemeinschaftsschule Struensee Gemeinschaftsschule, Gemeinschaftsschule des
+Schulverbandes Mittelangeln in Mittelangeln 2
+Schleswig-
+Flensburg Süderbrarup 0707559 Gemeinschaftsschule Schule am Thorsberger Moor, Gemeinschaftsschule Süderbrarup 3
+Schleswig-
+Flensburg Kropp 0707560 Gemeinschaftsschule Geestlandschule, Grund-und Gemeinschaftsschule der Gemeinde Kropp
+und des Schulverbandes Stapelholm in Kropp mit Außenstelle in Erfde 3
+Schleswig-
+Flensburg Schleswig 0707561 Gemeinschaftsschule Gemeinschaftsschule der Stadt Schleswig in Schleswig, Bruno-Lorenzen-
+Schule 5
+Schleswig-
+Flensburg Eggebek 0707563 Gemeinschaftsschule Eichenbachschule Eggebek-Jörl, Grund- und Gemeinschaftsschule des
+Amtes Eggebek in Eggebek 1
+Schleswig-
+Flensburg Silberstedt 0707564 Gemeinschaftsschule Erich Kästner Schule Silberstedt, Gemeinschaftsschule des Amtes
+Arensharde 2
+Schleswig-
+Flensburg Böklund 0707566 Gemeinschaftsschule Auenwaldschule, Gemeinschaftsschule des Schulverbandes
+Auenwaldschule in Böklund 4
+Segeberg Fahrenkrug 0702818 Grundschule Grundschule der Gemeinde Fahrenkrug in Fahrenkrug 1
+Segeberg Groß Kummerfeld 0702824 Grundschule Grundschule Groß Kummerfeld 1
+Segeberg Neuengörs 0702843 Grundschule Grundschule Neuengörs 1
+Segeberg Rickling 0702857 Grundschule Grundschule der Gemeinde Rickling in Rickling 1
+
+-- 12 of 16 --
+
+Segeberg Seedorf (Segeberg) 0702860 Grundschule Grundschule Schlamersdorf 1
+Segeberg Schmalfeld 0702861 Grundschule Grundschule Schmalfeld-Hartenholm, Grundschule des Schulverbandes
+Schmalfeld-Hasenmoor-Hartenhom in Schmalfeld 1
+Segeberg Seth 0702862 Grundschule Grundschule Seth mit Außenstelle Oering 1
+Segeberg Sievershütten 0702863 Grundschule Grundschule am Wald, Grundschule des Schulverbandes im Amt Kisdorf
+in Sievershütten und Struvenhütten 1
+Segeberg Rohlstorf 0702873 Grundschule Grundschule Warderfelde 1
+Segeberg Hitzhusen 0702880 Grundschule Grundschule Hitzhusen 1
+Segeberg Henstedt-Ulzburg 0702886 Grundschule Grundschule Lütte School 1
+Segeberg Alveslohe 0702805 Grundschule Grundschule Alveslohe 2
+Segeberg Pronstorf 0702821 Grundschule Grundschule Goldenbek 2
+Segeberg Großenaspe 0702823 Grundschule Grundschule Großenaspe 2
+Segeberg Bad Bramstedt 0702834 Grundschule Grundschule am Storchennest 2
+Segeberg Lentföhrden 0702839 Grundschule Grundschule Lentföhrden 2
+Segeberg Norderstedt 0702854 Grundschule Grundschule Immenhorst 2
+Segeberg Ellerau 0702817 Grundschule Grundschule Ellerau 3
+Segeberg Henstedt-Ulzburg 0702829 Grundschule Grundschule Rhen 3
+Segeberg Henstedt-Ulzburg 0702830 Grundschule Grundschule Ulzburg 3
+Segeberg Norderstedt 0702847 Grundschule Grundschule Harksheide-Nord 3
+Segeberg Norderstedt 0702848 Grundschule Grundschule Harkshörn 3
+Segeberg Norderstedt 0702859 Grundschule Grundschule Pellwormstraße 3
+Segeberg Bad Segeberg 0702808 Grundschule Heinrich-Rantzau-Schule 4
+Segeberg Wahlstedt 0702819 Grundschule Helen-Keller-Schule, Grundschule mit Förderzentrum der Stadt Wahlstedt
+in Wahlstedt 4
+Segeberg Norderstedt 0702853 Grundschule Grundschule Glashütte 4
+Segeberg Trappenkamp 0702867 Grundschule Grundschule Trappenkamp mit Förderzentrumsteil 4
+Segeberg Kaltenkirchen 0702879 Grundschule Grundschule am Lakweg 4
+Segeberg Bad Bramstedt 0702881 Grundschule Grundschule Am Bahnhof 4
+Segeberg Norderstedt 0702845 Grundschule OGGS Falkenberg 5
+Segeberg Norderstedt 0702849 Grundschule OGGS Heidberg 5
+Segeberg Norderstedt 0702852 Grundschule Grundschule Friedrichsgabe 5
+Segeberg Norderstedt 0702878 Grundschule Grundschule Gottfried-Keller-Straße 5
+Segeberg Norderstedt 0702850 Grundschule Grundschule Niendorfer Straße 6
+Segeberg Kaltenkirchen 0702882 Grundschule Grundschule Flottkamp 6
+Segeberg Bad Segeberg 0702883 Grundschule Theodor-Storm-Schule 6
+Segeberg Bad Bramstedt 0702806 Grundschule Grundschule Maienbeeck Bad Bramstedt/Wiemersdorf, Grundschule des
+Schulverbandes Bad Bramstedt 7
+Segeberg Norderstedt 0702855 Grundschule Grundschule Lütjenmoor 7
+Segeberg Norderstedt 0702846 Grundschule OGGS am Wittmoor 8
+Segeberg Kaltenkirchen 0702831 Grundschule Schule Alter Landweg, Grundschule der Stadt Kaltenkirchen in
+Kaltenkirchen 9
+Segeberg Bad Bramstedt 0705650 Gymnasium Jürgen-Fuhlendorf-Schule 2
+Segeberg Norderstedt 0705651 Gymnasium Gymnasium Harksheide 2
+Segeberg Norderstedt 0705652 Gymnasium Coppernicus-Gymnasium Europaschule 2
+Segeberg Bad Segeberg 0705653 Gymnasium Dahlmannschule 2
+Segeberg Kaltenkirchen 0705654 Gymnasium Gymnasium Kaltenkirchen 4
+Segeberg Bad Segeberg 0705655 Gymnasium Städtisches Gymnasium Segeberg 1
+Segeberg Norderstedt 0705656 Gymnasium Lise-Meitner-Gymnasium 2
+
+-- 13 of 16 --
+
+Segeberg Norderstedt 0705657 Gymnasium Lessing-Gymnasium Norderstedt 2
+Segeberg Henstedt-Ulzburg 0705658 Gymnasium Alstergymnasium 2
+Segeberg Nahe 0707602 Gemeinschaftsschule Schule im Alsterland, Grund- und Gemeinschaftsschule des
+Schulverbandes im Amt Itzstedt in Nahe 4
+Segeberg Bad Segeberg 0707603 Gemeinschaftsschule Gemeinschaftsschule am Seminarweg, Gemeinschaftsschule der Stadt
+Bad Segeberg in Bad Segeberg 3
+Segeberg Bad Segeberg 0707604 Gemeinschaftsschule Schule am Burgfeld, Gemeinschaftsschule mit Oberstufe des
+Schulverbandes Bad Segeberg in Bad Segeberg 4
+Segeberg Wahlstedt 0707605 Gemeinschaftsschule Poul-Due-Jensen-Schule, Gemeinschaftsschule der Stadt Wahlstedt in
+Wahlstedt 4
+Segeberg Kisdorf 0707606 Gemeinschaftsschule Grund- und Gemeinschaftsschule des Amtes Kisdorf in Kisdorf 1
+Segeberg Bornhöved 0707607 Gemeinschaftsschule Sventana-Schule, Grund- und Gemeinschaftsschule des Schulverbandes
+Sventana Bornhöved in Bornhöved 1
+Segeberg Boostedt 0707608 Gemeinschaftsschule Grund- und Gemeinschaftsschule der Gemeinde Boostedt in Boostedt 9
+Segeberg Kaltenkirchen 0707609 Gemeinschaftsschule Gemeinschaftsschule am Marschweg des Schulverbandes Kaltenkirchen
+in Kaltenkirchen 7
+Segeberg Norderstedt 0707610 Gemeinschaftsschule Gemeinschaftsschule der Stadt Norderstedt in Norderstedt,
+Gemeinschaftsschule Harksheide 4
+Segeberg Bad Bramstedt 0707611 Gemeinschaftsschule Gemeinschaftsschule Auenland, Gemeinschaftsschule mit Oberstufe des
+Schulverbandes Bad Bramstedt in Bad Bramstedt 4
+Segeberg Leezen 0707612 Gemeinschaftsschule Grund- und Gemeinschaftsschule des Amtes Leezen 1
+Segeberg Norderstedt 0707613 Gemeinschaftsschule Gemeinschaftsschule Ossenmoorpark, Gemeinschaftsschule der Stadt
+Norderstedt in Norderstedt 8
+Segeberg Henstedt-Ulzburg 0707614 Gemeinschaftsschule Olzeborchschule, Grund- und Gemeinschaftsschule der Gemeinde
+Henstedt-Ulzburg in Henstedt-Ulzburg 5
+Segeberg Henstedt-Ulzburg 0707615 Gemeinschaftsschule Gemeinschaftsschule Rhen, Gemeinschaftsschule der Gemeinde
+Henstedt-Ulzburg in Henstedt-Ulzburg 1
+Segeberg Norderstedt 0707616 Gemeinschaftsschule Willy-Brandt-Schule, Gemeinschaftsschule mit Oberstufe der Stadt
+Norderstedt 4
+Segeberg Trappenkamp 0707617 Gemeinschaftsschule Richard-Hallmann-Schule, Gemeinschaftsschule mit Oberstufe der
+Gemeinde Trappenkamp in Trappenkamp 3
+Segeberg Kaltenkirchen 0707620 Gemeinschaftsschule Gemeinschaftsschule der Stadt Kaltenkirchen in Kaltenkirchen, Dietrich-
+Bonhoeffer-Schule 3
+Segeberg Norderstedt 0707621 Gemeinschaftsschule Gemeinschaftsschule Friedrichsgabe, Gemeinschaftsschule der Stadt
+Norderstedt in Norderstedt 8
+Steinburg Brokstedt 0702893 Grundschule Grundschule Brokstedt mit Außenstelle Hennstedt 1
+Steinburg Herzhorn 0702898 Grundschule Schule am Deich - Standort Herzhorn bzw. Kollmar, Grundschule des
+Schulverbandes Glückstadt in Herzhorn 1
+Steinburg Hohenaspe 0702899 Grundschule Grundschule Hohenaspe 1
+Steinburg Kiebitzreihe 0702912 Grundschule Grundschule Kiebitzreihe 1
+Steinburg Kremperheide 0702915 Grundschule Grundschule Kremperheide 1
+Steinburg Münsterdorf 0702917 Grundschule Grundschule auf der Geestinsel des Schulverbandes Münsterdorf-
+Dägeling in Münsterdorf 1
+Steinburg Wacken 0702924 Grundschule Grundschule des Amtes Schenefeld in Wacken 1
+Steinburg Heiligenstedten 0702896 Grundschule Julianka-Schule 2
+Steinburg Rethwisch (Steinburg) 0702920 Grundschule Grundschule Rethwisch 2
+Steinburg Sankt Margarethen 0702922 Grundschule Grundschule Wilstermarsch, Grundschule des Schulverbandes
+Wilstermarsch in Sankt Margarethen 2
+Steinburg Wrist 0702928 Grundschule Grundschule Wrist 2
+Steinburg Krempe 0702932 Grundschule Schulzentrum Krempermarsch, Grundschule des Schulverbandes
+Krempermarsch in Krempe 2
+Steinburg Wilster 0702926 Grundschule Wolfgang-Ratke-Schule 3
+Steinburg Hohenlockstedt 0702929 Grundschule Grundschule Hohenlockstedt 3
+Steinburg Glückstadt 0702894 Grundschule Bürgerschule 4
+Steinburg Itzehoe 0702903 Grundschule Grundschule Edendorf 4
+Steinburg Itzehoe 0702908 Grundschule Grundschule an der Schäferkoppel der Stadt Itzehoe 4
+Steinburg Oelixdorf 0702919 Grundschule Störtalcampus - Lernen in Bewegung, Grundschule der Gemeinde
+Oelixdorf in Oelixdorf 4
+Steinburg Horst (Holstein) 0702930 Grundschule Grundschule Op de Host 4
+Steinburg Itzehoe 0702905 Grundschule Grundschule Wellenkamp 5
+Steinburg Kellinghusen 0702931 Grundschule Grundschule Kellinghusen 5
+Steinburg Lägerdorf 0702916 Grundschule Liliencronschule Lägerdorf - Grundschule der Gemeinde Lägerdorf 6
+Steinburg Itzehoe 0702904 Grundschule Grundschule Sude-West 7
+
+-- 14 of 16 --
+
+Steinburg Itzehoe 0702909 Grundschule Fehrs-Schule 8
+Steinburg Glückstadt 0705700 Gymnasium Detlefsengymnasium Glückstadt 1
+Steinburg Itzehoe 0705701 Gymnasium Auguste-Viktoria-Schule 3
+Steinburg Itzehoe 0705702 Gymnasium Kaiser-Karl-Schule 2
+Steinburg Itzehoe 0705703 Gymnasium Sophie-Scholl-Gymnasium, Itzehoe 3
+Steinburg Kellinghusen 0707650 Gemeinschaftsschule Gemeinschaftsschule mit Oberstufe der Stadt Kellinghusen in
+Kellinghusen 4
+Steinburg Horst (Holstein) 0707651 Gemeinschaftsschule Jacob-Struve-Schule, Gemeinschaftsschule des Schulverbandes Horst in
+Horst 3
+Steinburg Schenefeld (Steinburg) 0707652 Gemeinschaftsschule Grund- und Gemeinschaftsschule des Amtes Schenefeld in Schenefeld 3
+Steinburg Wilster 0707653 Gemeinschaftsschule Gemeinschaftsschule des Schulverbandes Wilstermarsch in Wilster 3
+Steinburg Itzehoe 0707654 Gemeinschaftsschule Gemeinschaftsschule der Stadt Itzehoe in Itzehoe, Gemeinschaftsschule
+am Lehmwohld 6
+Steinburg Itzehoe 0707655 Gemeinschaftsschule Gemeinschaftsschule der Stadt Itzehoe, Klosterhof-Schule 4
+Steinburg Hohenlockstedt 0707657 Gemeinschaftsschule Gemeinschaftsschule des Schulverbandes Hohenlockstedt, Wilhelm-
+Käber-Schule 2
+Steinburg Glückstadt 0707659 Gemeinschaftsschule Elbschule Glückstadt, Gemeinschaftsschule der Stadt Glückstadt in
+Glückstadt 4
+Steinburg Itzehoe 0707660 Gemeinschaftsschule Wolfgang-Borchert-Schule, Gemeinschaftsschule der Stadt Itzehoe in
+Itzehoe 5
+Stormarn Ahrensburg 0702940 Grundschule Grundschule Am Hagen 1
+Stormarn Bargteheide 0702947 Grundschule Emil-Nolde-Schule, Grundschule der Stadt Bargteheide in Bargteheide 1
+Stormarn Ammersbek 0702950 Grundschule Grundschule Bünningstedt 1
+Stormarn Grönwohld 0702954 Grundschule Grundschule Grönwohld 1
+Stormarn Hoisdorf 0702960 Grundschule Grundschule Hoisdorf 1
+Stormarn Lütjensee 0702962 Grundschule Grundschule Lütjensee 1
+Stormarn Steinburg 0702964 Grundschule Grundschule Mollhagen 1
+Stormarn Reinbek 0702976 Grundschule Grundschule Schönningstedt 1
+Stormarn Stapelfeld 0702977 Grundschule Grundschule Stapelfeld 1
+Stormarn Barsbüttel 0702983 Grundschule Grundschule Willinghusen 1
+Stormarn Ahrensburg 0702941 Grundschule Grundschule Am Reesenbüttel 2
+Stormarn Bargfeld-Stegen 0702945 Grundschule Alte Alster, Grundschule des Amtes Bargteheide-Land in Bargfeld-Stegen 2
+Stormarn Bargteheide 0702948 Grundschule Carl-Orff-Schule, Bargteheide 2
+Stormarn Hamberge 0702958 Grundschule Grundschule Hamberge 2
+Stormarn Bad Oldesloe 0702971 Grundschule Grundschule West 2
+Stormarn Tangstedt (Stormarn) 0702978 Grundschule Grundschule Tangstedt 2
+Stormarn Zarpen 0702984 Grundschule Dörfergemeinschaftsschule am Struckteich, Zarpen 2
+Stormarn Bad Oldesloe 0702943 Grundschule Klaus-Groth-Schule, Grundschule der Stadt Bad Oldesloe in Bad Oldesloe 3
+Stormarn Bargteheide 0702946 Grundschule Johannes-Gutenberg-Schule, Grundschule des Amtes Bargteheide-Land
+in Bargteheide 3
+Stormarn Großhansdorf 0702956 Grundschule Grundschule Am Wöhrendamm 3
+Stormarn Reinbek 0702965 Grundschule Gertrud-Lege-Schule, Grundschule der Stadt Reinbek in Reinbek 3
+Stormarn Reinbek 0702968 Grundschule Grundschule Klosterbergen 3
+Stormarn Reinfeld (Holstein) 0702970 Grundschule Matthias-Claudius-Schule 3
+Stormarn Großhansdorf 0702957 Grundschule Grundschule Schmalenbeck 4
+Stormarn Ammersbek 0702959 Grundschule Grundschule Hoisbüttel 4
+Stormarn Oststeinbek 0702966 Grundschule Grundschule Oststeinbek, Grundschule der Gemeinde Oststeinbek in
+Oststeinbek 4
+Stormarn Trittau 0702990 Grundschule Grundschule Trittau, Mühlau-Schule 4
+Stormarn Barsbüttel 0702949 Grundschule Kirsten Boie Schule, Grundschule der Gemeinde Barsbüttel in Barsbüttel 5
+Stormarn Glinde 0702951 Grundschule Grundschule Wiesenfeld, Glinde 5
+
+-- 15 of 16 --
+
+Stormarn Ahrensburg 0702986 Grundschule Grundschule Am Aalfang 5
+Stormarn Ahrensburg 0702942 Grundschule Grundschule Am Schloß 6
+Stormarn Bad Oldesloe 0702944 Grundschule Stadtschule 6
+Stormarn Glinde 0702952 Grundschule Grundschule Tannenweg, Glinde 6
+Stormarn Reinbek 0702988 Grundschule Grundschule Mühlenredder 8
+Stormarn Ahrensburg 0705750 Gymnasium Stormarnschule 2
+Stormarn Großhansdorf 0705751 Gymnasium Emil-von-Behring-Gymnasium 2
+Stormarn Bad Oldesloe 0705752 Gymnasium Theodor-Mommsen-Schule 2
+Stormarn Reinbek 0705753 Gymnasium Sachsenwaldschule 2
+Stormarn Bargteheide 0705754 Gymnasium Kopernikus Gymnasium Bargteheide 2
+Stormarn Ahrensburg 0705755 Gymnasium Eric-Kandel-Gymnasium Ahrensburg 1
+Stormarn Glinde 0705756 Gymnasium Gymnasium Glinde 2
+Stormarn Bargteheide 0705757 Gymnasium Gymnasium Eckhorst 2
+Stormarn Trittau 0705758 Gymnasium Gymnasium Trittau 1
+Stormarn Bargteheide 0707706 Gemeinschaftsschule Dietrich-Bonhoeffer-Schule, Gemeinschaftsschule mit Oberstufe der Stadt
+Bargteheide 2
+Stormarn Trittau 0707707 Gemeinschaftsschule Hahnheide-Schule, Gemeinschaftsschule mit Oberstufe des
+Schulverbandes Trittau in Trittau 2
+Stormarn Bad Oldesloe 0707708 Gemeinschaftsschule Schule am Masurenweg, Grund- und Gemeinschaftsschule des
+Schulverbandes Bad Oldesloe in Bad Oldesloe 3
+Stormarn Bad Oldesloe 0707709 Gemeinschaftsschule Theodor-Storm-Schule, Gemeinschaftsschule der Stadt Bad Oldesloe in
+Bad Oldesloe 8
+Stormarn Ahrensburg 0707710 Gemeinschaftsschule Gemeinschaftsschule Am Heimgarten Ahrensburg 8
+Stormarn Reinbek 0707711 Gemeinschaftsschule Gemeinschaftsschule mit Oberstufe im Schulzentrum Mühlenredder 5
+Stormarn Großhansdorf 0707712 Gemeinschaftsschule Friedrich-Junge-Schule, Gemeinschaftsschule des Schulverbandes
+Großhansdorf in Großhansdorf 3
+Stormarn Glinde 0707713 Gemeinschaftsschule Sönke-Nissen-Gemeinschaftsschule der Stadt Glinde 5
+Stormarn Ahrensburg 0707714 Gemeinschaftsschule Selma-Lagerlöf-Gemeinschaftsschule Ahrensburg mit Oberstufe, Schule
+der Stadt Ahrensburg 2
+Stormarn Bad Oldesloe 0707715 Gemeinschaftsschule Ida-Ehre-Schule, Gemeinschaftsschule mit Oberstufe der Stadt Bad
+Oldesloe in Bad Oldesloe 3
+Stormarn Glinde 0707716 Gemeinschaftsschule Gemeinschaftsschule mit Oberstufe Wiesenfeld der Stadt Glinde 4
+Stormarn Reinfeld (Holstein) 0707717 Gemeinschaftsschule Immanuel-Kant-Schule Reinfeld, Gemeinschaftsschule mit Oberstufe der
+Stadt Reinfeld (Holstein) 2
+Stormarn Bargteheide 0707718 Gemeinschaftsschule Anne-Frank-Schule Bargteheide, Gemeinschaftsschule mit Oberstufe der
+Stadt Bargteheide 3
+Stormarn Barsbuettel 0707719 Gemeinschaftsschule Erich Kästner Gemeinschaftsschule Barsbüttel mit Oberstufe, Schule der
+Gemeinde Barsbüttel 3
+
+-- 16 of 16 --
+
