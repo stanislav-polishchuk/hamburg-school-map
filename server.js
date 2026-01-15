@@ -8,7 +8,7 @@ const PORT = 3000;
 const DB_PATH = path.resolve(__dirname, 'schools.db');
 
 app.use(cors());
-app.use(express.static(__dirname));
+app.use(express.static(path.join(__dirname, 'docs')));
 
 app.get('/api/schools', (req, res) => {
     const db = new sqlite3.Database(DB_PATH);

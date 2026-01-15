@@ -19,6 +19,25 @@ document.addEventListener('DOMContentLoaded', () => {
 
     markersLayer = L.layerGroup().addTo(map);
 
+    // Add Geocoder (Search Bar)
+    const geocoder = L.Control.geocoder({
+        defaultMarkGeocode: false,
+        placeholder: "Search...",
+        errorMessage: "Nothing found.",
+        showResultIcons: true
+    })
+        .on('markgeocode', function (e) {
+            const center = e.geocode.center;
+
+            // Create a marker for the found location
+            const marker = L.marker(center).addTo(map);
+            marker.bindPopup(e.geocode.name).openPopup();
+
+            // Zoom to the location
+            map.setView(center, 16);
+        })
+        .addTo(map);
+
     const searchInput = document.getElementById('search-input');
     const citySelectElement = document.getElementById('city-select');
     const resetBtn = document.getElementById('reset-filters');
@@ -58,6 +77,21 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         })
         .catch(err => console.error('Error loading schools:', err));
+
+    // Mobile Menu Logic
+    const menuBtn = document.getElementById('menu-btn');
+    const closeBtn = document.getElementById('close-sidebar');
+    const controlsContainer = document.getElementById('controls-container');
+
+    if (menuBtn && closeBtn && controlsContainer) {
+        menuBtn.addEventListener('click', () => {
+            controlsContainer.classList.add('open');
+        });
+
+        closeBtn.addEventListener('click', () => {
+            controlsContainer.classList.remove('open');
+        });
+    }
 });
 
 function filterSchools() {

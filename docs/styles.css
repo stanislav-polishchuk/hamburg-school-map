@@ -13,6 +13,12 @@ html {
     z-index: 1;
 }
 
+/* Leaflet Control Geocoder */
+.leaflet-control-geocoder {
+    z-index: 2000;
+    /* Ensure it stays above map tiles and potentially other overlays */
+}
+
 /* Filters */
 .filters-control {
     position: absolute;
@@ -149,4 +155,107 @@ html {
     font-weight: bold;
     font-size: 11px;
     margin-top: 5px;
+}
+
+/* Menu Button */
+.menu-btn {
+    display: none;
+    /* Hidden on desktop */
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 3000;
+    background: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 1;
+}
+
+.close-sidebar {
+    display: none;
+    /* Hidden on desktop */
+}
+
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+    .menu-btn {
+        display: block;
+    }
+
+    /* Move Zoom controls down a bit so they don't overlap menu if needed, 
+       but Leaflet controls are usually top-left. 
+       We might need to move zoom controls or position menu button top-right. 
+       Let's put menu button top-right for now to avoid collision with Zoom (default top-left). */
+    .menu-btn {
+        right: 10px;
+        left: auto;
+        top: 10px;
+    }
+
+    .controls-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 300px;
+        max-width: 80%;
+        background: white;
+        z-index: 4000;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+        box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        overflow-y: auto;
+    }
+
+    .controls-container.open {
+        transform: translateX(0);
+    }
+
+    .close-sidebar {
+        display: block;
+        align-self: flex-end;
+        background: none;
+        border: none;
+        font-size: 24px;
+        cursor: pointer;
+        padding: 0 10px;
+        margin-bottom: 20px;
+    }
+
+    /* Reset absolute positioning for mobile */
+    .filters-control,
+    .legend-control {
+        position: static;
+        width: 100%;
+        box-shadow: none;
+        padding: 0;
+        margin-bottom: 30px;
+        background: transparent;
+        max-height: none;
+        /* Remove legend max-height restriction */
+    }
+
+    /* Stack filter inputs */
+    .filters-control {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        align-items: stretch;
+        /* Full width */
+    }
+
+    #search-input {
+        width: 100%;
+    }
+
+    .choices {
+        width: 100%;
+    }
 }

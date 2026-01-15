@@ -9,6 +9,7 @@
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
 
     <!-- Choices.js CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css" />
@@ -18,42 +19,50 @@
 </head>
 
 <body>
-    <div id="filters" class="filters-control">
-        <input type="text" id="search-input" placeholder="Search schools...">
-        <select id="city-select" multiple>
-            <option value="" placeholder>Filter by City</option>
-            <!-- Options populated by JS -->
-        </select>
-        <button id="reset-filters">Reset</button>
-    </div>
+    <button id="menu-btn" class="menu-btn" aria-label="Menu">
+        <span>☰</span>
+    </button>
 
     <div id="map"></div>
 
-    <div id="legend" class="legend-control">
-        <h4>Social Index Rating</h4>
-        <div class="legend-section">
-            <h5>Schleswig-Holstein</h5>
-            <small>(1=Good, 9=Bad)</small>
-            <div class="legend-item"><span class="color-box" style="background: #2ecc71;"></span> 1-3 (Good)</div>
-            <div class="legend-item"><span class="color-box" style="background: #f1c40f;"></span> 4-6 (Medium)</div>
-            <div class="legend-item"><span class="color-box" style="background: #e74c3c;"></span> 7-9 (Bad)</div>
+    <div id="controls-container" class="controls-container">
+        <button id="close-sidebar" class="close-sidebar" aria-label="Close">×</button>
+        <div id="filters" class="filters-control">
+            <input type="text" id="search-input" placeholder="Search schools...">
+            <select id="city-select" multiple>
+                <option value="" placeholder>Filter by City</option>
+                <!-- Options populated by JS -->
+            </select>
+            <button id="reset-filters">Reset</button>
         </div>
-        <div class="legend-section">
-            <h5>Hamburg</h5>
-            <small>(6=Good, 1=Bad)</small>
-            <div class="legend-item"><span class="color-box" style="background: #2ecc71;"></span> 5-6 (Good)</div>
-            <div class="legend-item"><span class="color-box" style="background: #f1c40f;"></span> 3-4 (Medium)</div>
-            <div class="legend-item"><span class="color-box" style="background: #e74c3c;"></span> 1-2 (Bad)</div>
-        </div>
-        <div class="legend-item" style="margin-top:10px;">
-            <span class="shape-circle"></span> SH (Circle)
-            <span class="shape-square"></span> HH (Square)
+
+        <div id="legend" class="legend-control">
+            <h4>Social Index Rating</h4>
+            <div class="legend-section">
+                <h5>Schleswig-Holstein</h5>
+                <small>(1=Good, 9=Bad)</small>
+                <div class="legend-item"><span class="color-box" style="background: #2ecc71;"></span> 1-3 (Good)</div>
+                <div class="legend-item"><span class="color-box" style="background: #f1c40f;"></span> 4-6 (Medium)</div>
+                <div class="legend-item"><span class="color-box" style="background: #e74c3c;"></span> 7-9 (Bad)</div>
+            </div>
+            <div class="legend-section">
+                <h5>Hamburg</h5>
+                <small>(6=Good, 1=Bad)</small>
+                <div class="legend-item"><span class="color-box" style="background: #2ecc71;"></span> 5-6 (Good)</div>
+                <div class="legend-item"><span class="color-box" style="background: #f1c40f;"></span> 3-4 (Medium)</div>
+                <div class="legend-item"><span class="color-box" style="background: #e74c3c;"></span> 1-2 (Bad)</div>
+            </div>
+            <div class="legend-item" style="margin-top:10px;">
+                <span class="shape-circle"></span> SH (Circle)
+                <span class="shape-square"></span> HH (Square)
+            </div>
         </div>
     </div>
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
 
     <!-- Choices.js JS -->
     <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
